@@ -58,10 +58,10 @@
 		<pattern>FAKUBALL, KICK * OR *</pattern>
 		<template>
 			<random>
-				<li>Faku: Kick <star/> :3</li>
-				<li>Faku: Kick <star index="2"/> :3</li>
-				<li>Faku: Time to kick <star/> :3</li>
-				<li>Faku: Time to kick <star index="2"/> :3</li>
+				<li>Faku: Kick <denormalize><star/></denormalize> :3</li>
+				<li>Faku: Kick <denormalize><star index="2"/></denormalize> :3</li>
+				<li>Faku: Time to kick <denormalize><star/></denormalize> :3</li>
+				<li>Faku: Time to kick <denormalize><star index="2"/></denormalize> :3</li>
 				<li>Faku: Why not both? :3</li>
 			</random>
 		</template>
@@ -129,7 +129,7 @@
 	<category>
 		<pattern>THANKS *</pattern>
 		<template>
-			<set name="randomemote"><srai>RANDOMEMOTE</srai></set> THANKS<uppercase><denormalize><star/></denormalize></uppercase><get name="randomemote" />
+			<set name="randomemote"><srai>RANDOMEMOTE</srai></set> <uppercase>THANKS<denormalize><star/></denormalize></uppercase><get name="randomemote" />
 		</template>
 	</category>
 
@@ -137,10 +137,10 @@
 		<pattern>PANIC</pattern>
 		<template>
 			<random>
-				<li>:petebutton: PANIC MODE ENGAGED, THIS IS NOT A DRILL :petebutton:</li>
-				<li>:petebutton: PANIC :petebutton:</li>
-				<li>:petebutton: SOUND THE ALARM :petebutton:</li>
-				<li>:petebutton: RED ALERT, RED ALERT :petebutton:</li>
+				<li>:petebutton: <uppercase>PANIC MODE ENGAGED, THIS IS NOT A DRILL</uppercase> :petebutton:</li>
+				<li>:petebutton: <uppercase>PANIC</uppercase> :petebutton:</li>
+				<li>:petebutton: <uppercase>SOUND THE ALARM</uppercase> :petebutton:</li>
+				<li>:petebutton: <uppercase>RED ALERT, RED ALERT</uppercase> :petebutton:</li>
 			</random>
 		</template>
 	</category>
@@ -152,7 +152,7 @@
 				<li>I've heard some corny birds / Who tried to sing / Still a cat's the only cat / Who knows how to swing // Who wants to dig a long-haired gig and stuff like that / When everybody wants to be a cat (Song: Everybody wants to be a cat - The Aristocats)</li>
 				<li>Wasurenai yo sugu soba ni / Kimi ga iru itsu no hi mo / Hoshizora ni kagayaite'ru / Namida yureru ashita mo (Song: Kaze ni Naru - Neko No Ongaeshi OST)</li>
 				<li>:Neko: meow meow meow meow~ meow meeeow♪</li>
-				<li>:Neko: *clears throat* MEEEEEEEEEEEEEEOOOOOOOOOOOOOOOOOOOOOW ♬♬</li>
+				<li>:Neko: *clears throat* <uppercase>MEEEEEEEEEEEEEEOOOOOOOOOOOOOOOOOOOOOW</uppercase> ♬♬</li>
 			</random>
 		</template>
 	</category>
@@ -189,7 +189,7 @@
 	<category>
 		<pattern>TESTMYON</pattern>
 		<template>
-			<set name="randomemote"><srai>RANDOMEMOTE</srai></set> MYON <get name="randomemote" />
+			<set name="randomemote"><srai>RANDOMEMOTE</srai></set> <uppercase>MYON</uppercase> <get name="randomemote" />
 		</template>
 	</category>
 </aiml>

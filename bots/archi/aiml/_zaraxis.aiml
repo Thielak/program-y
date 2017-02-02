@@ -3,7 +3,7 @@
 <category><pattern>EY</pattern><template>SEXY LADYYYYYYYYYYYYY</template></category>
 
 <category><pattern>MYON</pattern>
-<template><set name="randomemote"><srai>RANDOMEMOTE</srai></set> MYON <get name="randomemote" /></template></category>
+<template><set name="randomemote"><srai>RANDOMEMOTE</srai></set> <uppercase>MYON</uppercase> <get name="randomemote" /></template></category>
 
 <category><pattern>CS</pattern><template>cyka blyat vodka putin davai rush b idi nahui</template></category>
 
