@@ -9,7 +9,7 @@
 			</template>
 	</category>
 	<category>
-		<pattern>Norris *</pattern>
+		<pattern>NORRIS *</pattern>
 			<template>
 				<random>
 					<li><star/> refactors 10 million lines of Perl code before lunch.</li>
