@@ -1,4 +1,3 @@
-
 brain:
 
     supress_warnings: true
@@ -53,4 +52,5 @@ bot:
 rest:
   host: 127.0.0.1
   port: 5000
+  use_api_keys: false
   debug: false
