@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
-<category><pattern>What is ミユ</pattern>
+<category><pattern>WHAT IS ミユ</pattern>
 <template><random><li>ミユ is Miyuu.</li>
 <li>AMINE WEEB.</li>
 </random></template></category>
