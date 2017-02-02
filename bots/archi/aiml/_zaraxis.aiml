@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
-<category><pattern>ey</pattern><template>SEXY LADYYYYYYYYYYYYY</template></category>
+<category><pattern>EY</pattern><template>SEXY LADYYYYYYYYYYYYY</template></category>
 
-<category><pattern>myon</pattern>
+<category><pattern>MYON</pattern>
 <template><set name="randomemote"><srai>RANDOMEMOTE</srai></set> MYON <get name="randomemote" /></template></category>
 
-<category><pattern>cs</pattern><template>cyka blyat vodka putin davai rush b idi nahui</template></category>
+<category><pattern>CS</pattern><template>cyka blyat vodka putin davai rush b idi nahui</template></category>
 
-<category><pattern>who you want to be in future?</pattern><template>High school idol</template></category>
+<category><pattern>WHO YOU WANT TO BE IN FUTURE?</pattern><template>High school idol</template></category>
 
-<category><pattern>desire</pattern><template>OH DESIRE!</template></category>
+<category><pattern>DESIRE</pattern><template>OH DESIRE!</template></category>
 
-<category><pattern>boy next door</pattern><template>ＤＥＥＰ♂ＤＡＲＫ♂ＦＡＮＴＡＳＩＥＳ</template></category>
+<category><pattern>BOY NEXT DOOR</pattern><template>ＤＥＥＰ♂ＤＡＲＫ♂ＦＡＮＴＡＳＩＥＳ</template></category>
 
-<category><pattern>sing a song</pattern>
+<category><pattern>SING A SONG</pattern>
 <template><random><li>TODOKETE SETSUNASA NI WA NAMAE O TSUKIYOU KA SNOW HALATION
 (SONG: μ’s - Snow Halation)</li>
 <li>Nagareteku toki no naka de demo kedarusa ga hora guruguru mawatte
@@ -292,17 +292,17 @@ I do my best
 The world is mine
 (SONG: David Guetta - The World Is Mine)</li></random></template></category>
 
-<category><pattern>sing a song for kero</pattern>
+<category><pattern>SING A SONG FOR KERO</pattern>
   <template><random><li> ᵏᵉ~ʳᵒ ᵏᵉ~ʳᵒ ᵏᵉʳᵒ♪</li>
   <li>ᵏᵉʳᵒᵏᵉʳᵒᵏᵉʳᵒᵏᵉʳᵒᵏᵉʳᵒᵏᵉʳᵒᵏᵉʳᵒᵏᵉʳᵒᵏᵉʳᵒᵏᵉʳᵒᵏᵉʳᵒᵏᵉʳᵒᵏᵉʳᵒᵏᵉʳᵒᵏᵉʳᵒᵏᵉʳᵒ</li>
   <li>Ni- Ni- Nice boat! Suwako's nice boat!
   (SONG: Silver Forest - Kero ⑨ Destiny)</li>
   <li>Kaeru ga pyoko-pyoko kaze ni mo makezu Shippo wa nyoro-nyoro otamajakushi destiny
   (SONG: Silver Forest - Kero ⑨ Destiny)</li></random></template></category>
-<category><pattern>sing a song for miyu</pattern><template>BRAVE SHIIIIIIIIIIIINE!! te wo nobaseba mada STAY THE NIIIIIIIIIIGHT!! kizu darake no yoru You SAVE MY LIIIIIIIIFE!! 
+<category><pattern>SING A SONG FOR MIYU</pattern><template>BRAVE SHIIIIIIIIIIIINE!! te wo nobaseba mada STAY THE NIIIIIIIIIIGHT!! kizu darake no yoru You SAVE MY LIIIIIIIIFE!! 
   kazashita yaiba no saki ni omoi o kasaneta inori wa toki o koete
   (SONG: Aimer - Brave Shine)</template></category>
-<category><pattern>sing a song for cuki</pattern>
+<category><pattern>SING A SONG FOR CUKI</pattern>
   <template><random><li>'Cause we're young and we're reckless
   We'll take this way too far
   It'll leave you breathless
@@ -314,9 +314,9 @@ The world is mine
   Crossing over the time and distance holding you
   Suspended on silver wings♪
   (SONG: Sweetbox - 1000 Words)</li></random></template></category>
-<category><pattern>sing a song for emma</pattern><template>I'm not a hoarder I just like to collect things I don't need jewelry, your diamond rings♪
+<category><pattern>SING A SONG FOR EMMA</pattern><template>I'm not a hoarder I just like to collect things I don't need jewelry, your diamond rings♪
   (SONG: Daniel Griswell - The Hoarding Song)</template></category>
-<category><pattern>sing a song for archi</pattern>
+<category><pattern>SING A SONG FOR ARCHI</pattern>
   <template><random><li>BAAKA BAAKA BAAKA BAAKA BAAKA BAAKA
   (SONG: IOSYS - Cirno's Perfect Math Class)</li>
   <li>Kurukuru tokei no hari Guruguru atama mawaru♪
@@ -331,10 +331,10 @@ The world is mine
   A dabba doo time. 
   We'll have a gay old time!
   (SONG: Flintstones Theme)</li></random></template></category>
-<category><pattern>sing a song for archibot</pattern><template>Hu-mans-Hu.. Hu-mans-Hu.. Hu-mans-Hu.. Hu-mans-Hu.. Hu-Hu-mans-mans-Hu.. Hu-Hu-mans-mans-Hu.. Hu-Hu-mans-mans-Hu.. Hu-Hu-mans-mans-Hu.. Kill Kill Kill Humans
+<category><pattern>SING A SONG FOR ARCHIBOT</pattern><template>Hu-mans-Hu.. Hu-mans-Hu.. Hu-mans-Hu.. Hu-mans-Hu.. Hu-Hu-mans-mans-Hu.. Hu-Hu-mans-mans-Hu.. Hu-Hu-mans-mans-Hu.. Hu-Hu-mans-mans-Hu.. Kill Kill Kill Humans
   (SONG: Dubsidia - Kill Humans)</template></category>
-<category><pattern>sing a song for me</pattern><template>Fuck Youuuuu UUU!</template></category>
-<category><pattern>sing a song for sviat</pattern><template>BACK TO BACK!
+<category><pattern>SING A SONG FOR ME</pattern><template>Fuck Youuuuu UUU!</template></category>
+<category><pattern>SING A SONG FOR SVIAT</pattern><template>BACK TO BACK!
   Death comes arrivin’ on a Midnight Train!
   BACK TO BACK!
   Conscience is screamin’ to the End!
@@ -343,9 +343,9 @@ The world is mine
   BACK TO BACK!
   I can no longer pretend!
   (SONG: Daisuke Ishiwatari - Heavy Day)</template></category>
-<category><pattern>sing a song for wany</pattern><template>I want it all! I want it all! I want it all! and I want it now!
+<category><pattern>SING A SONG FOR WANY</pattern><template>I want it all! I want it all! I want it all! and I want it now!
   (SONG: Queen - I Want It All)</template></category>
-<category><pattern>sing a song for fake</pattern>
+<category><pattern>SING A SONG FOR FAKE</pattern>
   <template><random><li>Go, go, go, go, go, go, go, go, go, go 
   Gotta go fast, gotta go fast, 
   Gotta go faster, faster, faster, faster, faster
@@ -355,7 +355,7 @@ The world is mine
   Bami omyeon simjangi tteugeowojineun yeoja
   Geureon banjeon inneun yeoja
   (SONG: PSY - Gangnam Style)</li></random></template></category>
-<category><pattern>sing a song for chicken</pattern><template>Sweat and rain fall in a dream
+<category><pattern>SING A SONG FOR CHICKEN</pattern><template>Sweat and rain fall in a dream
   Rest can wait, eternity
   Follow me through the clouds
   We're never coming down..
@@ -365,30 +365,30 @@ The world is mine
   Like a firework, firework, firework
   Like a....
   (SONG: Hollywood Principle - Firework)</template></category>
-<category><pattern>sing a song for leloli</pattern><template>La la li la loli loli such tiny hands, oops, i really shouldn't my drool is dripping.
+<category><pattern>SING A SONG FOR LELOLI</pattern><template>La la li la loli loli such tiny hands, oops, i really shouldn't my drool is dripping.
   Loli loli i pet your head, and your sweetly smiling face is that of a crime.
   Loli loli a forbidden fruit, your immeasurable cuteness is infinite.
   Loli loli your innocent eyes gaze over here, ah i can't help it anymore!
   (SONG: Gumi - Rampaging Lolitaholic)</template></category>
-<category><pattern>sing a song for wind</pattern><template>I smell profitz in the air~~</template></category>
-<category><pattern>sing a song for pirupi</pattern><template>Pi-piru-piru-piru-pi-piru-pi pi-piru-piru-piru-pi-piru-pi♪
+<category><pattern>SING A SONG FOR WIND</pattern><template>I smell profitz in the air~~</template></category>
+<category><pattern>SING A SONG FOR PIRUPI</pattern><template>Pi-piru-piru-piru-pi-piru-pi pi-piru-piru-piru-pi-piru-pi♪
   (SONG: Saeko Chiba - Bokusatsu Tenshi Dokuro-Chan)</template></category>
-<category><pattern>sing a song for zinnerz</pattern><template>This will be the day we've waiting for
+<category><pattern>SING A SONG FOR ZINNERZ</pattern><template>This will be the day we've waiting for
   This will be the day we open up the door
   I don't wanna hear your absolution
   Hope you ready for a revolution:blissful_creep:
   (SONG: Jeff Williams - This Will Be The Day)</template></category>
-<category><pattern>sing a song for golbez</pattern><template>I kissed a girl and I liked it,
+<category><pattern>SING A SONG FOR GOLBEZ</pattern><template>I kissed a girl and I liked it,
   the taste of her cherry chapstick.
   I kissed a girl just to try it,
   I hope my boyfriend don't mind it.
   (SONG: Katy Perry - I Kissed A Girl)</template></category>
-<category><pattern>sing a song for mole</pattern><template>Neko Miko Reimu ai shiteru
+<category><pattern>SING A SONG FOR MOLE</pattern><template>Neko Miko Reimu ai shiteru
   Neko Miko Reimu nani shiteru
   Neko Miko Reimu shuran yurari
   Neko Miko Reimu muron furari
   (SONG: IOSYS - Neko Miko Reimu)</template></category>
-<category><pattern>sing a song for madu</pattern>
+<category><pattern>SING A SONG FOR MADU</pattern>
   <template><random><li>Yes, I'm a weeaboo
   Yes, I'm a weeaboo
   Yes, I'm a weeaboo
@@ -408,19 +408,19 @@ The world is mine
   Non praestatis Ultramarini! 
   Nobilitis Ultramarini! 
   (SONG: Chaos Gate - Ultramarines Chant)</li></random></template></category>
-<category><pattern>sing a song for sheeppu</pattern><template>Welcome to the Hotel California
+<category><pattern>SING A SONG FOR SHEEPPU</pattern><template>Welcome to the Hotel California
   Such a lovely place (Such a lovely place)
   Such a lovely face♪
   (SONG: Eagles - Hotel California)</template></category>
-<category><pattern>sing a song for rosey</pattern><template>My Little Pony I used to wonder what friendship could be 
+<category><pattern>SING A SONG FOR ROSEY</pattern><template>My Little Pony I used to wonder what friendship could be 
   My Little Pony Until you all shared its magic with me
   (SONG: Shannon Chan-Kent - My Little Pony Theme)</template></category>
-<category><pattern>sing a song for ekaros</pattern><template>Pettan, pettan, tsurupettan
+<category><pattern>SING A SONG FOR EKAROS</pattern><template>Pettan, pettan, tsurupettan
   Pettan, pettan, tsurupettan
   Pettan, pettan, mochipettan
   Pettan, pettan, mune pettan♪
   (SONG: Silver Forest - Tsurupettan)</template></category>
-<category><pattern>sing a song for zaraxis</pattern>
+<category><pattern>SING A SONG FOR ZARAXIS</pattern>
   <template><random><li>Todokete
   Setsunasa ni wa namae o tsukeyou ka “Snow halation”
   Omoi ga kasanaru made matezu ni
@@ -433,7 +433,7 @@ The world is mine
   kono sekai fuhen aru to suru naraba
   kachoufuugetsu ogosoka de utsukushii mono
   (SONG: Senya - Kachou Fuugetsu)</li></random></template></category>
-<category><pattern>sing a song for dosh</pattern>
+<category><pattern>SING A SONG FOR DOSH</pattern>
   <template><random><li>I'M NUCLEAAAAAAAAR! I'M WIIIIIIIIIILD!
   (SONG: Mike Oldfield - Nuclear)</li>
   <li>Oh 
@@ -452,7 +452,7 @@ The world is mine
   (SONG: Mizuki Nana - Koi no Yokushiryoku</li>
   <li>But who’s to judge The right from wrong When our guard is down I think we’ll both agree♪
   (SONG: Jamie Christopherson - It Has To Be This Way)</li></random></template></category>
-<category><pattern>sing a song for us</pattern>
+<category><pattern>SING A SONG FOR US</pattern>
   <template>Kanashimi ni tozasarete
   Naku dake no kimi janai
   Atsui mune kitto mirai o kirihiraku hazu sa
@@ -463,7 +463,7 @@ The world is mine
   Ugokasu chikara
   Shinjiteru yo... dakara START!!
   (SONG: μ's - START:DASH!</template></category>
-<category><pattern>sing a song for asim</pattern>
+<category><pattern>SING A SONG FOR ASIM</pattern>
   <template><random><li>Dango dango dango dango dango dango daikazoku
   Dango dango dango dango dango daikazoku♪
   (SONG: Chata - Dango Daikazoku)</li>
@@ -496,7 +496,7 @@ The world is mine
   sā! Hayaku ikou yo ☆ paradaisu!
   (SONG: Milk - Imouto Paradise)</li></random></template></category>
 
-<category><pattern>konradsball</pattern>
+<category><pattern>KONRADSBALL</pattern>
 <template><random><li>dont have time click every gamez when must do other thingz</li>
 <li>many ppl are stalking me, they wanna be me</li>
 <li>my time is very expensive</li>
@@ -513,11 +513,11 @@ The world is mine
 <li>you can have every game for free from cardz, even gta 5!</li>
 <li>I SOLD TONES OF CARDZ BUT I STILL HAVE MANY "$$$" RUBISH</li></random></template></category>
 
-<category><pattern>konrads6 golden thoughts</pattern>
-<template><srai>konradsball</srai></template>
+<category><pattern>KONRADS6 GOLDEN THOUGHTS</pattern>
+<template><srai>KONRADSBALL</srai></template>
 </category>
 
-<category><pattern>dukeball</pattern>
+<category><pattern>DUKEBALL</pattern>
 <template><random><li>Damn, I'm looking good.</li>
 <li>Damn! Those alien bastards are gonna pay for ruining my ride.</li>
 <li>It's time to kick ass and chew bubble gum, and I am all out of gum.</li>
@@ -535,7 +535,7 @@ The world is mine
 <li>I'm going to rip off your head and shit down your neck.</li>
 <li>Nobody steals our chicks... and lives!</li></random></template></category>
 
-<category><pattern>loliball</pattern>
+<category><pattern>LOLIBALL</pattern>
 <template><random><li>C-Can I... Can I become a monster like Santa Claus, too?!</li>
 <li>Onii-chan, What should I do?</li>
 <li>Ever since I was born, I have loved you chu~~</li>
@@ -558,7 +558,7 @@ The world is mine
 <li>My heart is throbbing kyun kyun</li>
 <li>Your mouth say lies, but your body is honest.</li></random></template></category>
 
-<category><pattern>tsundereball</pattern>
+<category><pattern>TSUNDEREBALL</pattern>
 <template><random><li>I-It's not like I like you, or anything. . . B-Baka</li>
 <li>Baka! Hentai! Shine!</li>
 <li>F-Fine! I'll let you hold my hand once..</li>
@@ -583,7 +583,7 @@ The world is mine
 <li>You're just a way to kill time for me, baka.</li>
 <li>It's not like I really wanted this or anything!</li></random></template></category>
 
-<category><pattern>yandereball</pattern>
+<category><pattern>YANDEREBALL</pattern>
 <template><random><li>If I kill you, that means I'll be the one closest to you when you're on your deathbed</li>
 <li>If you have someone other than me... If that's the case... I. DON'T. NEED. YOU.</li>
 <li>Choose me and live, or choose her and die.</li>
