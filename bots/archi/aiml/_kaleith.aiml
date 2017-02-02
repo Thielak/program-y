@@ -4,58 +4,58 @@
 <!-- ALIASES -->
 
 	<category>
-		<pattern>what is talismano</pattern>
+		<pattern>WHAT IS TALISMANO</pattern>
 		<template>
-			<srai>what is talisman</srai>
+			<srai>WHAT IS TALISMANO</srai>
 		</template>
 	</category>	
 	
 	<category>
-		<pattern>thanks bot</pattern>
+		<pattern>THANKS BOT</pattern>
 		<template>
-			<srai>thanks</srai>
+			<srai>THANKS</srai>
 		</template>
 	</category>	
 	
 	<category>
-		<pattern>thanks archibot</pattern>
+		<pattern>THANKS ARCHIBOT</pattern>
 		<template>
-			<srai>thanks</srai>
+			<srai>THANKS</srai>
 		</template>
 	</category>	
 		
 	<category>
-		<pattern>fakuball kick *</pattern>
+		<pattern>FAKUBALL KICK *</pattern>
 		<template>
-			<srai>fakuball, kick *</srai>
+			<srai>FAKUBALL, KICK *</srai>
 		</template>
 	</category>	
 
 	<category>
-		<pattern>fakuball kick * or *</pattern>
+		<pattern>FAKUBALL KICK * OR *</pattern>
 		<template>
-			<srai>fakuball, kick * or *</srai>
+			<srai>FAKUBALL, KICK * OR *</srai>
 		</template>
 	</category>	
 
 	<category>
-		<pattern>fakuball *</pattern>
+		<pattern>FAKUBALL *</pattern>
 		<template>
-			<srai>fakuball</srai>
+			<srai>FAKUBALL</srai>
 		</template>
 	</category>
 
 	<category>
-		<pattern>:petebutton:</pattern>
+		<pattern>:PETEBUTTON:</pattern>
 		<template>
-			<srai>panic</srai>
+			<srai>PANIC</srai>
 		</template>
 	</category>
 	
 <!-- COMMANDS -->	
 
 	<category>
-		<pattern>fakuball, kick * or *</pattern>
+		<pattern>FAKUBALL, KICK * OR *</pattern>
 		<template>
 			<random>
 				<li>Faku: Kick <star/> :3</li>
@@ -68,7 +68,7 @@
 	</category>	
 	
 	<category>
-		<pattern>fakuball, kick *</pattern>
+		<pattern>FAKUBALL, KICK *</pattern>
 		<template>
 			<random>
 				<li>Faku: Yes, definitely :3</li>
@@ -85,7 +85,7 @@
 	</category>
 	
 	<category>
-		<pattern>fakuball</pattern>
+		<pattern>FAKUBALL</pattern>
 		<template>
 			<random>
 				<li>Faku: :3</li>
@@ -98,7 +98,7 @@
 	</category>
 
 	<category>
-		<pattern>winduball</pattern>
+		<pattern>WINDUBALL</pattern>
 		<template>
 			<random>
 				<li>Windu: I'm Wind of Memory and this Is my Scam Shop</li>
@@ -134,7 +134,7 @@
 	</category>
 
 	<category>
-		<pattern>panic</pattern>
+		<pattern>PANIC</pattern>
 		<template>
 			<random>
 				<li>:petebutton: PANIC MODE ENGAGED, THIS IS NOT A DRILL :petebutton:</li>
@@ -146,7 +146,7 @@
 	</category>
 	
 	<category>
-		<pattern>sing a song for kaleith</pattern>
+		<pattern>SING A SONG FOR KALEITH</pattern>
 		<template>
 			<random>
 				<li>I've heard some corny birds / Who tried to sing / Still a cat's the only cat / Who knows how to swing // Who wants to dig a long-haired gig and stuff like that / When everybody wants to be a cat (Song: Everybody wants to be a cat - The Aristocats)</li>
@@ -158,7 +158,7 @@
 	</category>
 
 	<category>
-		<pattern>who is kaleith</pattern>
+		<pattern>WHO IS KALEITH</pattern>
 		<template>
 			<random>
 				<li>:Neko:/ </li>
@@ -172,7 +172,7 @@
 	</category>
 	
 	<category>
-		<pattern>what is talisman</pattern>
+		<pattern>WHAT IS TALISMAN</pattern>
 		<template>
 			<random>
 				<li>A game where up to 6 players battle using wits and luck and at the end the leprechaun wins.</li>
