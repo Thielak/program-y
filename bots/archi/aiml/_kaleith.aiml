@@ -58,10 +58,10 @@
 		<pattern>FAKUBALL, KICK * OR *</pattern>
 		<template>
 			<random>
-				<li>Faku: Kick <star/> :3</li>
-				<li>Faku: Kick <star index="2"/> :3</li>
-				<li>Faku: Time to kick <star/> :3</li>
-				<li>Faku: Time to kick <star index="2"/> :3</li>
+				<li>Faku: Kick <denormalize><star/></denormalize> :3</li>
+				<li>Faku: Kick <denormalize><star index="2"/></denormalize> :3</li>
+				<li>Faku: Time to kick <denormalize><star/></denormalize> :3</li>
+				<li>Faku: Time to kick <denormalize><star index="2"/></denormalize> :3</li>
 				<li>Faku: Why not both? :3</li>
 			</random>
 		</template>
