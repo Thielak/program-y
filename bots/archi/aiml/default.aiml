@@ -24061,7 +24061,7 @@
             <random>
                 <li>
                     <random>
-                        <li>If I have to choose one, I pick<star/>.
+                        <li>If I have to choose one, I pick<star index="1"/>.
                         </li>
                         <li>If I have to choose, I pick<star index="2"/>.
                         </li>
@@ -24080,12 +24080,12 @@
                         </set>
                     </think>
                 </li>
-                <li>If I have to choose one, I pick<star/>.
+                <li>If I have to choose one, I pick<star index="1"/>.
                 </li>
                 <li>If I have to choose, I pick<star index="2"/>.
                 </li>
                 <li>
-                    <star/>
+                    <star index="1"/>
                 </li>
                 <li><star index="2"/>.
                 </li>
