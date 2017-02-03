@@ -25,16 +25,16 @@
 	</category>	
 		
 	<category>
-		<pattern>FAKUBALL KICK *</pattern>
+		<pattern>FAKUBALL, KICK *</pattern>
 		<template>
-			<srai>FAKUBALL, KICK *</srai>
+			<srai>FAKUBALL KICK *</srai>
 		</template>
 	</category>	
 
 	<category>
-		<pattern>FAKUBALL KICK * OR *</pattern>
+		<pattern>FAKUBALL, KICK * OR *</pattern>
 		<template>
-			<srai>FAKUBALL, KICK * OR *</srai>
+			<srai>FAKUBALL KICK * OR *</srai>
 		</template>
 	</category>	
 
@@ -55,20 +55,20 @@
 <!-- COMMANDS -->	
 
 	<category>
-		<pattern>FAKUBALL, KICK * OR *</pattern>
+		<pattern>FAKUBALL KICK * OR *</pattern>
 		<template>
 			<random>
-				<li>Faku: Kick <denormalize><star/></denormalize> :3</li>
-				<li>Faku: Kick <denormalize><star index="2"/></denormalize> :3</li>
-				<li>Faku: Time to kick <denormalize><star/></denormalize> :3</li>
-				<li>Faku: Time to kick <denormalize><star index="2"/></denormalize> :3</li>
+				<li>Faku: Kick <denormalize><star index="1" /></denormalize> :3</li>
+				<li>Faku: Kick <denormalize><star index="2" /></denormalize> :3</li>
+				<li>Faku: Time to kick <denormalize><star index="1" /></denormalize> :3</li>
+				<li>Faku: Time to kick <denormalize><star index="2" /></denormalize> :3</li>
 				<li>Faku: Why not both? :3</li>
 			</random>
 		</template>
 	</category>	
 	
 	<category>
-		<pattern>FAKUBALL, KICK *</pattern>
+		<pattern>FAKUBALL KICK *</pattern>
 		<template>
 			<random>
 				<li>Faku: Yes, definitely :3</li>
