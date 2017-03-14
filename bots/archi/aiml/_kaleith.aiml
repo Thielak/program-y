@@ -25,16 +25,16 @@
 	</category>	
 		
 	<category>
-		<pattern>FAKUBALL, KICK *</pattern>
+		<pattern>FAKUBALL, KICK #</pattern>
 		<template>
-			<srai>FAKUBALL KICK *</srai>
+			<srai>FAKUBALL KICK #</srai>
 		</template>
 	</category>	
 
 	<category>
-		<pattern>FAKUBALL, KICK * OR *</pattern>
+		<pattern>FAKUBALL, KICK # OR #</pattern>
 		<template>
-			<srai>FAKUBALL KICK * OR *</srai>
+			<srai>FAKUBALL KICK # OR #</srai>
 		</template>
 	</category>	
 
@@ -55,7 +55,7 @@
 <!-- COMMANDS -->	
 
 	<category>
-		<pattern>FAKUBALL KICK * OR *</pattern>
+		<pattern>FAKUBALL KICK # OR #</pattern>
 		<template>
 			<random>
 				<li>Faku: Kick <denormalize><sentence><star index="1" /></sentence></denormalize> :3</li>
@@ -68,7 +68,7 @@
 	</category>	
 	
 	<category>
-		<pattern>FAKUBALL KICK *</pattern>
+		<pattern>FAKUBALL KICK #</pattern>
 		<template>
 			<random>
 				<li>Faku: Yes, definitely :3</li>
@@ -162,7 +162,6 @@
 		<template>
 			<random>
 				<li>:Neko:/ </li>
-				<li>\:catpuzzle:/</li>
 				<li>Just your friendly neighborhood cat :3</li>
 				<li>A majestic, 100% non-fat feline specimen :3</li>
 				<li>A fluffy ball of white fur (and not fat)</li>
