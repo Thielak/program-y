@@ -25,16 +25,16 @@
 	</category>	
 		
 	<category>
-		<pattern>FAKUBALL, KICK *</pattern>
+		<pattern>FAKUBALL, KICK #</pattern>
 		<template>
-			<srai>FAKUBALL KICK *</srai>
+			<srai>FAKUBALL KICK #</srai>
 		</template>
 	</category>	
 
 	<category>
-		<pattern>FAKUBALL, KICK * OR *</pattern>
+		<pattern>FAKUBALL, KICK # OR #</pattern>
 		<template>
-			<srai>FAKUBALL KICK * OR *</srai>
+			<srai>FAKUBALL KICK # OR #</srai>
 		</template>
 	</category>	
 
@@ -51,11 +51,11 @@
 			<srai>PANIC</srai>
 		</template>
 	</category>
-	
+
 <!-- COMMANDS -->	
 
 	<category>
-		<pattern>FAKUBALL KICK * OR *</pattern>
+		<pattern>FAKUBALL KICK # OR #</pattern>
 		<template>
 			<random>
 				<li>Faku: Kick <denormalize><sentence><star index="1" /></sentence></denormalize> :3</li>
@@ -68,7 +68,7 @@
 	</category>	
 	
 	<category>
-		<pattern>FAKUBALL KICK *</pattern>
+		<pattern>FAKUBALL KICK #</pattern>
 		<template>
 			<random>
 				<li>Faku: Yes, definitely :3</li>
@@ -152,7 +152,7 @@
 				<li>I've heard some corny birds / Who tried to sing / Still a cat's the only cat / Who knows how to swing // Who wants to dig a long-haired gig and stuff like that / When everybody wants to be a cat (Song: Everybody wants to be a cat - The Aristocats)</li>
 				<li>Wasurenai yo sugu soba ni / Kimi ga iru itsu no hi mo / Hoshizora ni kagayaite'ru / Namida yureru ashita mo (Song: Kaze ni Naru - Neko No Ongaeshi OST)</li>
 				<li>:Neko: meow meow meow meow~ meow meeeow♪</li>
-				<li>:Neko: *clears throat* MEEEEEEEEEEEEEEOOOOOOOOOOOOOOOOOOOOOW♬♬</li>
+				<li>This is 10% puns, 20% skill, 15% concentrated power of memes, 5% fat, 50% fur and 100% reason to remember the name Kaleith. (Song: Remember the name Kaleith - Fort May-or-may-not be a Real Group)</li>
 			</random>
 		</template>
 	</category>
@@ -162,7 +162,6 @@
 		<template>
 			<random>
 				<li>:Neko:/ </li>
-				<li>\:catpuzzle:/</li>
 				<li>Just your friendly neighborhood cat :3</li>
 				<li>A majestic, 100% non-fat feline specimen :3</li>
 				<li>A fluffy ball of white fur (and not fat)</li>

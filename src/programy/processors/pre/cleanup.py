@@ -25,4 +25,5 @@ class CleanUpPreProcessor(PreProcessor):
 
     def process(self, bot, clientid, string):
         logging.debug("Cleaning up input...")
+        string = string.translate({ord(c): None for c in '?'})
         return string.upper()
