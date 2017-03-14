@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+	<category>
+		<pattern>MISFORTUNE</pattern>
+		<template>
+			<random>
+				<li>The darkness holds much worse than mere trickery and bogeymen.</li>
+				<li>Darkness closes in, haunting the hearts of men.</li>
+				<li>And now... the darkness holds dominion – black as death.</li>
+				<li>Gnawing hunger sets in, turning the body against itself, weakening the mind…</li>
+				<li>To fall for such a little thing... a bite of bread...</li>
+				<li>No force of will can overcome a failing body.</li>
+				<li>The requirements of survival cannot be met on an empty stomach.</li>
+				<li>How quickly the tide turns!</li>
+				<li>Grievous injury, palpable fear...</li>
+				<li>Death waits for the slightest lapse in concentration.</li>
+				<li>Ringing ears, blurred vision - the end approaches...</li>
+				<li>Dazed, reeling, about to break...</li>
+				<li>Perched at the very precipice of oblivion...</li>
+				<li>A hand-breadth from becoming unwound...</li>
+				<li>Teetering on the brink, facing the abyss...</li>
+				<li>As life ebbs, terrible vistas of emptiness reveal themselves.  </li>
+				<li>Survival is a tenuous proposition in this sprawling tomb.</li>
+				<li>More blood soaks the soil, feeding the evil therein.</li>
+				<li>Another life wasted in the pursuit of glory and gold.</li>
+				<li>This is no place for the weak, or the foolhardy.</li>
+				<li>More dust, more ashes, more disappointment.</li>
+				<li>True desperation is known only when escape is impossible.</li>
+				<li>Cornered! Trapped! And forced to fight on...</li>
+				<li>No chance for egress - will this be a massacre?</li>
+				<li>The human mind - fragile like a robin's egg.</li>
+				<li>The mind cannot hope to withstand such an assault.</li>
+				<li>Even the aged oak will fall to the tempest's winds.</li>
+				<li>Madness, our old friend!</li>
+				<li>One can sometimes find clarity in madness, but only rarely...</li>
+				<li>The bulwarks of the mind have fallen!</li>
+				<li>Frustration and fury, more destructive than a hundred cannons. </li>
+				<li>Fear and frailty finally claim their due.</li>
+				<li>The walls close in, the shadows whisper of conspiracy!</li>
+				<li>There can be no hope in this hell, no hope at all.</li>
+				<li>Those who covet injury find it in no short supply.</li>
+				<li>Reeling, gasping, taken over the edge into madness!</li>
+				<li>Even the cold stone seems bent on preventing passage.</li>
+				<li>Nature herself - a victim to this spreading corruption: malformed with misintent.</li>
+				<li>Another mariner... Another misfortune.</li>
+				<li>Carelessness will find no clemency in this place!</li>
+				<li>Mind that such missteps are the exception, and not the rule.</li>
+				<li>Failure tests the mettle of heart, brain, and body.</li>
+				<li>Ignorance of your enemy and of yourself will invariably lead to defeat.</li>
+			</random>
+		</template>
+	</category>	
+
+</aiml>
