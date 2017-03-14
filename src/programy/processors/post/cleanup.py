@@ -27,6 +27,8 @@ class CleanUpPostProcessor(PostProcessor):
         stripped = string.strip()
         if stripped.endswith(" ."):
             stripped = stripped[:len(stripped)-2] + "."
+        if stripped.startswith("(╯°□°）╯︵ "):
+            stripped = "(╯°□°）╯︵ " + stripped[9:].replace(' ', '')
         return stripped
 
         #
