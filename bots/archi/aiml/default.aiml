@@ -24052,7 +24052,7 @@
         <template>How do you know it does?</template>
     </category>
     <category>
-        <pattern>* OR *</pattern>
+        <pattern>^ OR *</pattern>
         <template>
             <random>
                 <li>
