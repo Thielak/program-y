@@ -5,22 +5,12 @@
 	<pattern>WHO IS MIKE</pattern>	
 	<template>	
 		<random>
-			<li>:vanilla3: Nyaa♪ :cocochan3:</li>
-			<srai>MYON</srai>
 			<li>!nsfw loli tentacle_rape</li>
 			<li>!playgame AMINE WEEB TRASH</li>
-			<li>\m/ Nico~Nico~Nii♪ \m/</li>
 			<li>A guy who, for some reason, is trying to create a "harem" of little brothers.</li>
 			<li>A guy who is often found in command positions, without even aiming for them.</li>
-			<li>An attention whore who added more personal definitions about himself than anyone else. Have fun finding them all :bite:</li>
-			<li>"B-Baka!"</li>
-			<li>"Flat is Justice!"</li>
-			<li>"HAVE YOU BEEN FEEDING HOARDERS AGAIN?"</li>
-			<li>"Hmph, damn hoarders... :steamsalty:"</li>
+			<li>An attention whore who added more personal definitions about himself than anyone else.</li>
 			<li>Huh? Do we even have someone called like that? :speak:</li>
-			<li>"I-I'm not a lolicon, I-I just like cute things... and lolis are cute :3"</li>
-			<li>Ni~Pah♪</li>
-			<li>"Say "Hi!" to your onii-chan :3"</li>
 			<li>The kind of guy who could tell you to fuck off with a serious face, then come running after you crying.</li>
 			<li>The self-proclaimed leader of the "2hu Little Italy Project"... whatever it is.</li>
 		</random>
@@ -32,6 +22,23 @@
 	<template>
 		<srai>WHO IS MIKE</srai>
 	</template>
+</category>
+
+<category>
+	<pattern>MIKUBALL</pattern>
+	<template>
+		<random>
+			<li>"Say "Hi!" to your onii-chan :3</li>
+			<li>Ni~Pah♪</li>
+			<li>I-I'm not a lolicon, I-I just like cute things... like lolis, for example :3</li>
+			<li>:steamsalty: :steamsalty: :steamsalty: HAVE YOU BEEN FEEDING HOARDERS AGAIN? :speak: :steamsalty: :steamsalty: :steamsalty:</li>
+			<li>:blanc: Flat is Justice!</li>
+			<li>B-Baka!</li>
+			<li>\m/ Nico~Nico~Nii♪ \m/</li>
+			<li>:vanilla3: Nyaa♪ :cocochan3:</li>
+			<li><srai>MYON</srai></li>
+		</random>
+	>/template>
 </category>
 
 <category>
