@@ -138,7 +138,7 @@
     <!-- IMPLODE -->
     <category>
         <pattern>PPPNIMPLODE * *</pattern>
-        <template><star/>ö<srai>PPPNIMPLODE <star index="2"/></srai></template>
+        <template><star/><srai>PPPNIMPLODE <star index="2"/></srai></template>
     </category>
      <category>
         <pattern>PPPNIMPLODE *</pattern>
