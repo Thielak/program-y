@@ -18,7 +18,7 @@
 	</category>
 
 	<category>
-		<pattern>YOMAMA</pattern>				<!-- from https://github.com/rdegges/yomomma-api/ -->
+		<pattern>YOMAMA</pattern>	<!-- from https://github.com/rdegges/yomomma-api/ -->
 		<template>
 			<random>
 				<li>Yo mama is so fat that her bellybutton gets home 15 minutes before she does.</li>
@@ -1060,7 +1060,7 @@
 				<li>What do you call an Argentinian with a rubber toe? Roberto</li>
 				<li>“What do you call a man with no nose and no body? Nobody nose.”</li>
 				<li>I cut my finger chopping cheese, but I think that I may have grater problems.</li>
-				<li>What do you call a fish with no eyes? A fshhhh.</li>
+				<li>What do you call a fish with no eyes? A fsh.</li>
 				<li>“On all of my medical forms growing up my dad wrote ‘red’ for my blood type. To this day no one knows my actual blood type.”</li>
 				<li>“What do you call a man with no arms and no legs lying in front of your door? Matt.”</li>
 				<li>My cat was just sick on the carpet, I don’t think it’s feline well.</li>
@@ -1068,10 +1068,9 @@
 				<li>Without geometry life is pointless.</li>
 				<li>A termite walks into a bar and asks “Is the bar tender here?”</li>
 				<li>What’s Forest Gump’s Facebook password? 1forest1</li>
-				<li>I gave all my dead batteries away today… Free of charge.</li>
+				<li>I gave all my dead batteries away today... Free of charge.</li>
 				<li>I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.</li>
 				<li>I am terrified of elevators. I’m going to start taking steps to avoid them.</li>
-				<li>“Anytime I do something smart my dad says, ‘Wow, you’re a fart smella…I mean smart fella!’”</li>
 				<li>What’s the advantage of living in Switzerland? Well, the flag is a big plus.</li>
 				<li>Why did the octopus beat the shark in a fight? Because it was well armed.</li>
 				<li>A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.</li>
@@ -1082,7 +1081,6 @@
 				<li>What do you call a group of killer whales playing instruments? An Orca-stra.</li>
 				<li>Why was the big cat disqualified from the race? Because it was a cheetah.</li>
 				<li>Bicycles can’t stand on their own, they’re two tired.</li>
-				<li>Just watched a documentary about beavers… It was the best damn program I’ve ever seen.</li>
 				<li>Breaking news! Energizer Bunny arrested – charged with battery</li>
 				<li>“How do you make holy water? You boil the hell out of it.”</li>
 				<li>A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”</li>
@@ -1091,7 +1089,7 @@
 				<li>“Why did the Clydesdale give the pony a glass of water? Because he was a little horse!”</li>
 				<li>There’s a new type of broom out, it’s sweeping the nation.</li>
 				<li>Atheism is a non-prophet organisation.</li>
-				<li>Slept like a log last night … woke up in the fireplace.</li>
+				<li>Slept like a log last night... woke up in the fireplace.</li>
 				<li>“We were getting fast food when the lady at the window said, ‘Any condiments?’ My dad responded, ‘Compliments? You look very nice today!’”</li>
 				<li>They laughed when I said I wanted to be a comedian – they’re not laughing now.</li>
 				<li>What cheese can never be yours? Nacho cheese.</li>
@@ -1113,7 +1111,7 @@
 				<li>What do you call Jay-Z when he’s sleeping? Jay Zzzzzzzzzz.</li>
 				<li>A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”</li>
 				<li>What do you call a sheep with no legs? A cloud.</li>
-				<li>I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel</li>
+				<li>I knew i shouldn’t have ate that seafood. Because now i’m feeling a little... Eel</li>
 				<li>What did the late tomato say to the early tomato? I’ll ketch up</li>
 				<li>What did the 0 say to the 8? Nice belt.</li>
 				<li>Why are skeletons so calm? Because nothing gets under their skin.</li>
@@ -1125,16 +1123,15 @@
 				<li>“What time did the man go to the dentist? Tooth hurt-y.”</li>
 				<li>“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”</li>
 				<li>Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!</li>
-				<li>Dad I’m hungry … “Hi hungry” I’m dad</li>
+				<li>Dad I’m hungry ... “Hi hungry” I’m dad</li>
 				<li>“I asked my dad for his best dad joke and he said, ‘You.’”</li>
-				<li>When Dad drops a pea off of his plate ‘oh dear I’ve pee’d on the table!</li>
 				<li>How do you know when you are going to drown in milk? When its past your eyes!</li>
 			</random>
 		</template>
 	</category>
 	
 	<category>
-		<pattern>CARDSAGAINSTHUMANITY</pattern>					<!-- from https://github.com/nodanaonlyzuul/against-humanity -->
+		<pattern>CARDSAGAINSTHUMANITY</pattern>		<!-- from https://github.com/nodanaonlyzuul/against-humanity -->
 		<template>
 			<random>
 				<li><srai>CAHANSWER</srai>? There's an app for that.</li>
@@ -1403,7 +1400,7 @@
 	</category>
 	
 	<category>
-		<pattern>CAHANSWER</pattern>				<!-- from https://github.com/nodanaonlyzuul/against-humanity -->
+		<pattern>CAHANSWER</pattern>		<!-- from https://github.com/nodanaonlyzuul/against-humanity -->
 		<template>
 			<random>
 				<li>[Flying sex snakes]</li>
@@ -1572,7 +1569,6 @@
 				<li>[Doin' it in the butt]</li>
 				<li>[Being fabulous]</li>
 				<li>[Mathletes]</li>
-				<li>[Wearing underwear inside-out to avoid doing laundry]</li>
 				<li>[Nipple blades]</li>
 				<li>[An M. Night Shyamalan plot twist]</li>
 				<li>[A bag of magic beans]</li>
