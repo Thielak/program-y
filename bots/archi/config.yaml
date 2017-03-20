@@ -1,3 +1,4 @@
+
 brain:
 
     supress_warnings: true
@@ -10,7 +11,7 @@ brain:
         aiml:
             files: $BOT_ROOT/aiml
             extension: .aiml
-            directories: false
+            directories: true
         sets:
             files: $BOT_ROOT/sets
             extension: .txt
@@ -48,6 +49,7 @@ bot:
     initial_question: Hi, how can I help you today?
     default_response: Sorry, I don't have an answer for that!
     exit_response: So long, and thanks for the fish!
+    override_predicates: true
 
 rest:
   host: 127.0.0.1
