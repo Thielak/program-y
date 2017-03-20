@@ -4,7 +4,8 @@ from programy.parser.template.nodes import *
 from programy.bot import Bot
 from programy.brain import Brain
 from programy.dialog import Conversation, Question
-from programy.config import BrainConfiguration, BotConfiguration, BrainFileConfiguration
+from programy.config.brain import BrainConfiguration, BrainFileConfiguration
+from programy.config.bot import BotConfiguration
 
 from test.parser.template.base import TemplateTestsBaseClass
 
@@ -1877,8 +1878,8 @@ class TemplateIntervalNodeTests(TemplateTestsBaseClass):
         node = TemplateIntervalNode()
         node.format = TemplateWordNode("%c")
         node.style = TemplateWordNode("years")
-        node.interval_from = TemplateWordNode("Thu Oct  6 16:35:11 2014")
-        node.interval_to = TemplateWordNode("Fri Oct  7 16:35:11 2016")
+        node.interval_from = TemplateWordNode("Thu Oct 06 16:35:11 2014")
+        node.interval_to = TemplateWordNode("Fri Oct 07 16:35:11 2016")
 
         self.assertIsNotNone(node)
 

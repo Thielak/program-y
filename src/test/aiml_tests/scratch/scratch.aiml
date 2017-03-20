@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    <!-- File: date.aiml -->
+    <!-- Last modified: September 5, 2014 -->
+    <!--  -->
+    <!-- This AIML file is part of the Rosie knowledge base. -->
+    <!--  -->
+    <!-- Rosie is a fork of the ALICE2 brain, and is optimized for use on the Pandorabots platform -->
+    <!--  -->
+    <!-- Rosie is Copyright &copy; 2014 by Pandorabots, Inc. -->
+    <!--  -->
+    <!-- The Rosie brain is released under the terms of the GNU Lesser General -->
+    <!-- Public License, as published by the Free Software Foundation. -->
+    <!--  -->
+    <!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+    <!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+    <!--  -->
+    <!-- For more information: -->
+    <!-- http://www.pandorabots.com -->
+    <!--  http://www.alicebot.org -->
+    <!--  -->
+
+    <!-- Modified for Y-Bot by Keith Sterling March 2017 -->
+
+    <category>
+        <pattern>I AM MARRIED</pattern>
+        <template>
+            HOW LONG HAVE YOU BEEN MARRIED
+        </template>
+    </category>
+
+    <category>
+        <pattern># YEARS</pattern>
+        <that>HOW LONG HAVE YOU BEEN MARRIED</that>
+        <template>
+            Congratulations!
+        </template>
+    </category>
+
+    <category>
+        <pattern>3 *</pattern>
+        <template>
+            Just three!
+        </template>
+    </category>
+
+    <category>
+        <pattern>ZZZ</pattern>
+        <template>
+            ARE YOU TIRED?
+        </template>
+    </category>
+
+    <category>
+        <pattern>YES</pattern>
+        <that>ARE YOU TIRED</that>
+        <template>
+            Maybe you should get some rest. I will still be here later.
+        </template>
+    </category>
+
+    <category>
+        <pattern>YES</pattern>
+        <template>
+            Cool
+        </template>
+    </category>
+
+</aiml>
