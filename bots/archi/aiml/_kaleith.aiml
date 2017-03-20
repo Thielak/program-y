@@ -4,6 +4,13 @@
 <!-- ALIASES -->
 
 	<category>
+		<pattern>FLIP A COIN</pattern>
+		<template>
+			<srai>COIN</srai>
+		</template>
+	</category>	
+	
+	<category>
 		<pattern>WHAT IS TALISMANO</pattern>
 		<template>
 			<srai>WHAT IS TALISMAN</srai>
@@ -184,6 +191,32 @@
 			</random>
 		</template>
 	</category>
+
+	<category>
+		<pattern>COIN</pattern>
+		<template>
+			<random>
+				<li>:ccoin: Tails</li>
+				<li>:100oj: Heads</li>
+			</random>
+		</template>
+	</category>	
+
+	<category>
+		<pattern>RPS</pattern>
+		<template>
+			<random>
+				<li>:200rock: Rock</li>
+				<li>:200paper: Paper</li>
+				<li>:200scissors: Scissors</li>
+			</random>
+		</template>
+	</category>	
+
+	<category>
+		<pattern>FLIP</pattern>
+		<template>Flip what :sgsmile:</template>
+	</category>	
 
 	<category>
 		<pattern>TESTMYON</pattern>
