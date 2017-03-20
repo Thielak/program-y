@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
-    <category>
-        <pattern>WHO IS MADU</pattern>
-            <template>
-                <random>
-                    <li>Rude, it's in the fucking name</li>
-                    <li>"I believe in the magic of idol music!"</li>
-                    <li>O żesz kurwa ja pierdole</li>
-                </random>
-            </template>
-    </category>
+	<category>
+		<pattern>WHO IS MADU</pattern>
+		<template>
+			<random>
+				<li>Rude, it's in the fucking name</li>
+				<li>"I believe in the magic of idol music!"</li>
+				<li>O żesz kurwa ja pierdole</li>
+			</random>
+		</template>
+	</category>
 </aiml>
