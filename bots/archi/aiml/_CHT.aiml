@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>WHO IS CHT</pattern>
+    <template>Chatter in 2hu gibs.</template>
+  </category>
+  
+  <category>
+    <pattern>DOTO TIME</pattern>
+    <template>
+      <random>
+        <li>:petebutton: RED ALERT :petebutton:</li>
+        <li>*Archi sends 100% OJ invite*</li>
+      </random>
+    </template>
+  </category>
+  
+  <category>
+    <pattern>WHAT IS DOTO</pattern>
+    <template>
+      <random>
+        <li>Toxicity central.</li>
+        <li>:petebutton: CANCER :petebutton:</li>
+        <li>A "game" CHT plays often.</li>
+      </random>
+    </template>
+  </category>
+</aiml>
