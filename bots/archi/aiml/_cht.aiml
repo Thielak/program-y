@@ -40,7 +40,31 @@
     <template>
       <random>
         <li>well the years start coming and they don't stop coming and they don't stop coming and they don't stop coming(SONG: Smash Mouth - All Star)</li>
-        <li>yuuen no kimi ga daisuki de daikirai(SONG: Walküre - AXIA ~Daisuki de Daikirai~</li>
+        <li>yuuen no kimi ga daisuki de daikirai(SONG: Walküre - AXIA ~Daisuki de Daikirai~)</li>
+      </random>
+    </template>
+  </category>
+  
+  <category>
+    <pattern>TODO</pattern>
+    <template>
+      <random>
+        <li>Fix your code!</li>
+        <li>Get to work, you're wasting time!</li>
+        <li>Meaningful life: ☐</li>
+        <li><srai>HOW TO WASTE TIME</srai></li>
+      </random>
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HOW TO WASTE TIME</pattern>
+    <template>
+      <random>
+        <li>Play games.</li>
+        <li>By reading this, you've successfully wasted time. Congrats.</li>
+        <li>Sit around idly.</li>
+        <li>If you aren't sure after sitting around idly, you're doing something wrong.</li>
       </random>
     </template>
   </category>
