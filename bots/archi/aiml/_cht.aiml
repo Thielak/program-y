@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<aiml>
+<aiml version="2.0">
+  <!-- List of patterns below. -->
+  <!--
+    WHO IS CHT            -Self-explanatory.
+    DOTO TIME             -For when people actually say they want to play doto.
+    WHAT IS DOTO          -Again, self-explanatory.
+    SING A SONG FOR CHT   -Songs that describe CHT best. Still WIP.
+  -->
+  
   <category>
     <pattern>WHO IS CHT</pattern>
     <template>
