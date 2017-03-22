@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<aiml>
+<aiml version="2.0">
+  <!-- List of patterns below. -->
+  <!--
+    WHO IS CHT            -Self-explanatory.
+    DOTO TIME             -For when people actually say they want to play doto.
+    WHAT IS DOTO          -Again, self-explanatory.
+    SING A SONG FOR CHT   -Songs that describe CHT best. Still WIP.
+  -->
+  
   <category>
     <pattern>WHO IS CHT</pattern>
-    <template>Chatter in 2hu gibs.</template>
+    <template>
+      <random>
+        <li>Chatter in 2hu gibs.</li>
+        <li>Chat stalker, found in its natural habitat 2hu gibs.</li>
+        <li>One noob in programming that makes stuff based on "templates".</li>
+      </random>
+    </template>
   </category>
   
   <category>
     <pattern>DOTO TIME</pattern>
-    <template>
-      <random>
-        <li>:petebutton: RED ALERT :petebutton:</li>
-        <li>*Archi sends 100% OJ invite*</li>
-      </random>
-    </template>
+    <template>*Archi sends 100% OJ invite*</template>
   </category>
   
   <category>
@@ -20,8 +29,18 @@
     <template>
       <random>
         <li>Toxicity central.</li>
-        <li>:petebutton: CANCER :petebutton:</li>
+        <li>Cancer sim.</li>
         <li>A "game" CHT plays often.</li>
+      </random>
+    </template>
+  </category>
+  
+  <category>
+    <pattern>SING A SONG FOR CHT</pattern>
+    <template>
+      <random>
+        <li>well the years start coming and they don't stop coming and they don't stop coming and they don't stop coming(SONG: Smash Mouth - All Star)</li>
+        <li>yuuen no kimi ga daisuki de daikirai(SONG: Walküre - AXIA ~Daisuki de Daikirai~</li>
       </random>
     </template>
   </category>
