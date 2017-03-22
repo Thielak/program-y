@@ -214,6 +214,20 @@
 	</category>	
 
 	<category>
+		<pattern>ROLL</pattern>
+		<template>
+			<random>
+				<li>:dice1:</li>
+				<li>:dice2:</li>
+				<li>:dice3:</li>
+				<li>:dice4:</li>
+				<li>:dice5:</li>
+				<li>:dice6:</li>
+			</random>
+		</template>
+	</category>	
+
+	<category>
 		<pattern>9BALL</pattern>
 		<template>
 			<random>
