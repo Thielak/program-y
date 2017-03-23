@@ -3,11 +3,11 @@
   <!-- List of patterns below. -->
   <!--
     WHO IS CHT            -Self-explanatory.
-    DOTO TIME             -For when people actually say they want to play doto.
     WHAT IS DOTO          -Again, self-explanatory.
     SING A SONG FOR CHT   -Songs that describe CHT best. Still WIP.
     TODO                  -Stuff that can help people get on track with their life.
     HOW TO WASTE TIME     -FOr those that somehow don't have a clear direction with their free time.
+    SAVE CIRI             -Madu needs to do this.
   -->
   
   <category>
@@ -22,17 +22,12 @@
   </category>
   
   <category>
-    <pattern>DOTO TIME</pattern>
-    <template>*Archi sends 100% OJ invite*</template>
-  </category>
-  
-  <category>
     <pattern>WHAT IS DOTO</pattern>
     <template>
       <random>
         <li>Toxicity central.</li>
         <li>Cancer sim.</li>
-        <li>A "game" CHT plays often.</li>
+        <li>A "game" CHT and Monmon play often.</li>
       </random>
     </template>
   </category>
@@ -41,8 +36,9 @@
     <pattern>SING A SONG FOR CHT</pattern>
     <template>
       <random>
-        <li>well the years start coming and they don't stop coming and they don't stop coming and they don't stop coming(SONG: Smash Mouth - All Star)</li>
+        <li>well the years start coming and they don't stop coming and they don't stop coming and they don't stop coming(SONG: They don't stop coming - Namare[Smash Mouth - All Star])</li>
         <li>yuuen no kimi ga daisuki de daikirai(SONG: Walküre - AXIA ~Daisuki de Daikirai~)</li>
+        </li>Do what you want cause a pirate is free, you are a pirate!(SONG: Lazy Town - You Are A Pirate)</li>
       </random>
     </template>
   </category>
@@ -69,5 +65,10 @@
         <li>If you aren't sure after sitting around idly, you're doing something wrong.</li>
       </random>
     </template>
+  </category>
+  
+  <category>
+    <pattern>SAVE CIRI</pattern>
+    <template>Archi: save ciri</template>
   </category>
 </aiml>
