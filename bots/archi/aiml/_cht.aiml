@@ -7,6 +7,7 @@
     SING A SONG FOR CHT   -Songs that describe CHT best. Still WIP.
     TODO                  -Stuff that can help people get on track with their life.
     HOW TO WASTE TIME     -FOr those that somehow don't have a clear direction with their free time.
+    SAVE CIRI             -Madu needs to do this.
   -->
   
   <category>
@@ -26,7 +27,7 @@
       <random>
         <li>Toxicity central.</li>
         <li>Cancer sim.</li>
-        <li>A "game" CHT and Monmon plays often.</li>
+        <li>A "game" CHT and Monmon play often.</li>
       </random>
     </template>
   </category>
