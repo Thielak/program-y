@@ -53,6 +53,25 @@
 	</category>
 
 	<category>
+		<pattern>8BALL *</pattern>
+		<template>
+			<srai>8BALL</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>9BALL *</pattern>
+		<template>
+			<srai>9BALL</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>9BALL</pattern>
+		<template>❾: <srai>8BALL</srai></template>
+	</category>
+
+	<category>
 		<pattern>:PETEBUTTON:</pattern>
 		<template>
 			<srai>PANIC</srai>
@@ -228,29 +247,29 @@
 	</category>	
 
 	<category>
-		<pattern>9BALL ^</pattern>
+		<pattern>8BALL</pattern>
 		<template>
 			<random>
-				<li>❾: It is certain</li>
-				<li>❾: It is decidedly so</li>
-				<li>❾: Without a doubt</li>
-				<li>❾: Yes definitely</li>
-				<li>❾: You may rely on it</li>
-				<li>❾: As I see it, yes</li>
-				<li>❾: Most likely</li>
-				<li>❾: Outlook good</li>
-				<li>❾: Yes</li>
-				<li>❾: Signs point to yes</li>
-				<li>❾: Reply hazy try again</li>
-				<li>❾: Ask again later</li>
-				<li>❾: Better not tell you now</li>
-				<li>❾: Cannot predict now</li>
-				<li>❾: Concentrate and ask again</li>
-				<li>❾: Don't count on it</li>
-				<li>❾: My reply is no</li>
-				<li>❾: My sources say no</li>
-				<li>❾: Outlook not so good</li>
-				<li>❾: Very doubtful</li>
+				<li>It is certain</li>
+				<li>It is decidedly so</li>
+				<li>Without a doubt</li>
+				<li>Yes definitely</li>
+				<li>You may rely on it</li>
+				<li>As I see it, yes</li>
+				<li>Most likely</li>
+				<li>Outlook good</li>
+				<li>Yes</li>
+				<li>Signs point to yes</li>
+				<li>Reply hazy try again</li>
+				<li>Ask again later</li>
+				<li>Better not tell you now</li>
+				<li>Cannot predict now</li>
+				<li>Concentrate and ask again</li>
+				<li>Don't count on it</li>
+				<li>My reply is no</li>
+				<li>My sources say no</li>
+				<li>Outlook not so good</li>
+				<li>Very doubtful</li>
 			</random>
 		</template>
 	</category>
