@@ -129,6 +129,9 @@
 				<li>Apparently I snore so loudly that it scares everyone in the car I'm driving.</li>
 				<li>Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.</li>
 				<li>Wife: "I look fat. Can you give me a compliment?" Husband: "You have perfect eyesight."</li>
+				<li>Alcohol is a perfect solvent: It dissolves marriages, families and careers.</li>
+				<li>When Miley Cyrus gets naked and licks a hammer it's "art" and "music". But when I do it, I'm "drunk" and "have to leave the hardware store".</li>
+				<li>What's the difference between your wife and your job? After five years your job will still suck.</li>
 			</random>
 		</template>
 	</category>
@@ -142,7 +145,7 @@
 		<pattern>INSULT</pattern>	<!-- from https://github.com/rdegges/yomomma-api/ -->
 		<template>
 			<random>
-				<li>Is your ass jealous of the amount of shit that just came out of your mouth?</li>
+				<li>Is your ass jealous of the amount of shit that comes out of your mouth?</li>
 				<li>Two wrongs don't make a right, take your parents as an example.</li>
 				<li>I'd like to see things from your point of view but I can't seem to get my head that far up my ass.</li>
 				<li>If I wanted to kill myself I'd climb your ego and jump to your IQ.</li>
@@ -187,6 +190,9 @@
 				<li>You've got two brain cells: one is in a wheelchair and the other one is pushing.</li>
 				<li>You have the perfect face for radio.</li>
 				<li>Are your parents siblings?</li>
+				<li>Save your breath... You'll need it to blow up your date.</li>
+				<li>Are you always this stupid or is today a special occasion?</li>
+				<li>When you were born the doctor came out to the waiting room and said to your father "I'm very sorry, we did everything we could but he pulled through."</li>
 			</random>
 		</template>
 	</category>
