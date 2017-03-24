@@ -46,29 +46,8 @@
 	</category>	
 
 	<category>
-		<pattern>FAKUBALL *</pattern>
-		<template>
-			<srai>FAKUBALL</srai>
-		</template>
-	</category>
-
-	<category>
-		<pattern>8BALL *</pattern>
-		<template>
-			<srai>8BALL</srai>
-		</template>
-	</category>
-
-	<category>
-		<pattern>9BALL *</pattern>
-		<template>
-			<srai>9BALL</srai>
-		</template>
-	</category>
-
-	<category>
-		<pattern>9BALL</pattern>
-		<template>❾: <srai>8BALL</srai></template>
+		<pattern>9BALL ^</pattern>
+		<template>❾: <srai>8BALL ^</srai></template>
 	</category>
 
 	<category>
@@ -111,7 +90,7 @@
 	</category>
 	
 	<category>
-		<pattern>FAKUBALL</pattern>
+		<pattern>FAKUBALL ^</pattern>
 		<template>
 			<random>
 				<li>Faku: :3</li>
@@ -247,7 +226,7 @@
 	</category>	
 
 	<category>
-		<pattern>8BALL</pattern>
+		<pattern>8BALL ^</pattern>
 		<template>
 			<random>
 				<li>It is certain</li>
@@ -277,6 +256,11 @@
 	<category>
 		<pattern>FLIP</pattern>
 		<template>Flip what :sgsmile:</template>
+	</category>	
+	
+	<category>
+		<pattern>ROLL *</pattern>
+		<template>Roll one at a time or use !roll <star/> :sgsmile:</template>
 	</category>	
 
 	<category>
