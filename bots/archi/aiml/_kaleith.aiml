@@ -228,7 +228,7 @@
 	</category>	
 
 	<category>
-		<pattern>9BALL</pattern>
+		<pattern>9BALL ^</pattern>
 		<template>
 			<random>
 				<li>❾: It is certain</li>
