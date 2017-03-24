@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>JOKE</pattern>
+		<template>
+			<random>
+				<li><srai>DADJOKE</srai></li>
+				<li><srai>DADPUN</srai></li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern>DADJOKE</pattern>
+		<template>
+			<random>
+				<li>What did the mountain climber name his son? Cliff.</li>
+				<li>Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads “Small medium at large.”</li>
+				<li>“Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, ‘No, just leave it in the carton!’”</li>
+				<li>“Me: ‘Dad, make me a sandwich!’ Dad: ‘Poof, You’re a sandwich!’”</li>
+				<li>“I heard there was a new store called Moderation. They have everything there</li>
+				<li>“How can you tell if a ant is a boy or a girl? They’re all girls, otherwise they’d be uncles.”</li>
+				<li>I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.</li>
+				<li>Milk is also the fastest liquid on earth – its pasteurized before you even see it</li>
+				<li>“What’s Forrest Gump’s password? 1forrest1”</li>
+				<li>What did the ocean say to the shore? Nothing, it just waved.</li>
+				<li>“What’s ET short for? Because he’s only got little legs.”</li>
+				<li>“What is Beethoven’s favorite fruit? A ba-na-na-na.”</li>
+				<li>Why do crabs never give to charity? Because they’re shellfish.</li>
+				<li>What do you call an Argentinian with a rubber toe? Roberto</li>
+				<li>“What do you call a man with no nose and no body? Nobody nose.”</li>
+				<li>I cut my finger chopping cheese, but I think that I may have grater problems.</li>
+				<li>“What do you call a man with no arms and no legs lying in front of your door? Matt.”</li>
+				<li>My cat was just sick on the carpet, I don’t think it’s feline well.</li>
+				<li>I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.</li>
+				<li>A termite walks into a bar and asks “Is the bar tender here?”</li>
+				<li>I gave all my dead batteries away today... Free of charge.</li>
+				<li>I am terrified of elevators. I’m going to start taking steps to avoid them.</li>
+				<li>What’s the advantage of living in Switzerland? Well, the flag is a big plus.</li>
+				<li>Why did the octopus beat the shark in a fight? Because it was well armed.</li>
+				<li>A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.</li>
+				<li>I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.</li>
+				<li>Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.</li>
+				<li>What did daddy spider say to baby spider? You spend too much time on the web.</li>
+				<li>What do you call a group of killer whales playing instruments? An Orca-stra.</li>
+				<li>Why was the big cat disqualified from the race? Because it was a cheetah.</li>
+				<li>Bicycles can’t stand on their own, they’re two tired.</li>
+				<li>Breaking news! Energizer Bunny arrested – charged with battery</li>
+				<li>“How do you make holy water? You boil the hell out of it.”</li>
+				<li>A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”</li>
+				<li>“Doctor, I’ve broken my arm in several places” Doctor “Well don’t go to those places.”</li>
+				<li>“Why did the Clydesdale give the pony a glass of water? Because he was a little horse!”</li>
+				<li>There’s a new type of broom out, it’s sweeping the nation.</li>
+				<li>Relationships are a lot like algebra. Have you ever looked at your X and wondered Y?</li>
+				<li>They laughed when I said I wanted to be a comedian – they’re not laughing now.</li>
+				<li>A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.</li>
+				<li>Last Christmas we bought a fake Christmas tree and the guy behind the counter said to my Dad,” Are you going to put it up yourself?” Dad replied, “Don’t be disgusting, I’m going to put it in the living room. “</li>
+				<li>I’m reading a book on the history of glue – can’t put it down.</li>
+				<li>Did you hear about the kidnapping at school? It’s fine, he woke up.</li>
+				<li>I went to the zoo the other day, there was only one dog in it. It was a shitzu.</li>
+				<li>What did the daddy tomato say to the baby tomato? Catch up!</li>
+				<li>What did baby corn say to mama corn? Where’s popcorn?</li>
+				<li>What do you call a cow with no legs? Ground beef.</li>
+				<li>What did the Buffalo say to his little boy when he dropped him off at school? Bison.</li>
+				<li>Why did the scarecrow win an award? Because he was outstanding in his field.</li>
+				<li>Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!</li>
+				<li>What’s brown and sounds like a bell? Dung!</li>
+				<li>Where does batman go to the bathroom? The batroom.</li>
+				<li>What’s the difference between an African elephant and an Indian elephant? About 5000 miles</li>
+				<li>What do you call Jay-Z when he’s sleeping? Jay Zzzzzzzzzz.</li>
+				<li>A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”</li>
+				<li>I knew i shouldn’t have ate that seafood. Because now i’m feeling a little... Eel</li>
+				<li>What did the late tomato say to the early tomato? I’ll ketch up</li>
+				<li>Why are skeletons so calm? Because nothing gets under their skin.</li>
+				<li>Why don’t skeletons ever go trick or treating? Because they have nobody to go with.</li>
+				<li>Why do scuba divers fall backwards into the water? Because if they fell forwards they’d still be in the boat.</li>
+				<li>Have you ever heard of a music group called Cellophane? They mostly wrap.</li>
+				<li>Why does Superman gets invited to dinners? Because he is a Supperhero.</li>
+				<li>A recent study has found that women who carry a little extra weight live longer than the men who mention it.</li>
+				<li>Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.</li>
+				<li>My wife and I were happy for twenty years. Then we met.</li>
+				<li>I used to think I was indecisive, but now I'm not too sure.</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern>DADPUN</pattern> <!-- from http://onelinefun.com/puns/ -->
+		<template>
+			<random>
+				<li>It's hard to explain puns to kleptomaniacs because they always take things literally.</li>
+				<li>I can't believe I got fired from the calendar factory. All I did was take a day off.</li>
+				<li>Did you hear about the guy who got hit in the head with a can of soda? He was lucky it was a soft drink.</li>
+				<li>I'm reading a book about anti-gravity. It's impossible to put down.</li>
+				<li>I wasn't originally going to get a brain transplant, but then I changed my mind.</li>
+				<li>What do you call the security outside of a Samsung Store? Guardians of the Galaxy.</li>
+				<li>eBay is so useless. I tried to look up lighters and all they had was 13749 matches.</li>
+				<li>Why was Cinderella thrown off the basketball team? She ran away from the ball.</li>
+				<li>A friend of mine tried to annoy me with bird puns, but I soon realized that toucan play at that game.</li>
+				<li>I have a few jokes about unemployed people but it doesn't matter. None of them work.</li>
+				<li>Thieves had broken into my house and stolen everything except my soap, shower gel, towels and deodorant. Dirty bastards.</li>
+				<li>When I get naked in the bathroom, the shower usually gets turned on.</li>
+				<li>I am on a seafood diet. Every time I see food, I eat it.</li>
+				<li>Why did the scientist install a knocker on his door? He wanted to win the No-bell prize!</li>
+				<li>A book just fell on my head. I've only got myshelf to blame.</li>
+				<li>I wanna make a joke about sodium, but Na..</li>
+				<li>I hate insects puns, they really bug me.</li>
+				<li>Having sex in an elevator is wrong on so many levels.</li>
+				<li>Did you hear about the Italian chef with a terminal illness? He pastaway.</li>
+				<li>Why don't cannibals eat clowns? They taste funny.</li>
+				<li>How can you spot the blind guy at the nudist colony? It's not hard.</li>
+				<li>How much does a hipster weigh? An instagram.</li>
+				<li>Atheism is a non-prophet organization.</li>
+				<li>What do you call Watson when Sherlock isn't around? Holmeless.</li>
+				<li>A hole was found in the wall of a nudist camp. The police are looking into it.</li>
+				<li>Which day do chickens hate the most? Friday.</li>
+				<li>Claustrophobic people are more productive thinking out of the box.</li>
+				<li>What do sea monsters eat for lunch? Fish and ships.</li>
+				<li>Whats long and hard and has cum in it? A cucumber.</li>
+				<li>A donkey fell into a bowl of sugar. Now that's a sweet ass.</li>
+				<li>An opinion without 3.14159 is just an onion.</li>
+				<li>What do you have to do to have a party in space? You have to Planet.</li>
+				<li>What do ghosts serve for dessert? I Scream.</li>
+				<li>Where do you find a birthday present for a cat? In a cat-alogue!</li>
+				<li>Why did the snowman smile? Because the snowblower is coming.</li>
+				<li>I'm trying to finish writing a script for a porno movie, but there are just too many holes in the plot.</li>
+				<li>In democracy, it's your vote that counts. In feudalism, it's your count that votes.</li>
+				<li>What did Zelda tell Link when he couldn't open the door? TRIFORCE!</li>
+				<li>I threw an Asian man down a flight of stairs. It was Wong on so many levels.</li>
+				<li>What do squirrels give for Valentine's Day? Forget-me-nuts.</li>
+				<li>I would tell you a joke about my shoe but I think I shoedn't.</li>
+				<li>How do you know when you are going to drown in milk? When its past your eyes!</li>
+				<li>I used to think I was indecisive, but now I'm not too sure.</li>
+				<li>What do you call a fish with no eyes? A fsh.</li>
+				<li>What cheese can never be yours? Nacho cheese.</li>
+				<li>“What time did the man go to the dentist? Tooth hurt-y.”</li>
+				<li>What kind of magic do cows believe in? Moodoo.</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern>INSULT</pattern>	<!-- from https://github.com/rdegges/yomomma-api/ -->
+		<template>
+			<random>
+				<li>It took yo mama 10 tries to get her drivers license - she couldn't get used to the front seat!</li>
+				<li>What's the difference between yo mama and a 747? About 20 pounds.</li>
+				<li>What's the difference between yo mama and a walrus? One has whiskers and smells of fish... the other one is a walrus!</li>
+				<li>Ya mama's so fat, her wand is a Slim Jim.</li>
+				<li>Yo mama conforms to Planck's law - the greater the frequency with which she screws, the more energetic she gets.</li>
+				<li>Yo mama got hit upside the head with an ugly stick.</li>
+				<li>Yo mama has so many teeth missing, that it looks like her tongue is in jail.</li>
+				<li>Yo mama has so much hair on her upper lip that she braids it.</li>
+				<li>Yo mama is cross-eyed and watches TV in stereo.</li>
+				<li>Yo mama is like a bag of potato chips, "Free-To-Lay."</li>
+				<li>Yo mama is like a basketball hoop, everybody gets a shot.</li>
+				<li>Yo mama is like a bowling ball, she always winds up in the gutter.</li>
+				<li>Yo mama is like a bowling ball... round, heavy, and you can fit three fingers in.</li>
+				<li>Yo mama is like a bus, guys climb on and off her all day long.</li>
+				<li>Yo mama is like a carpenter's dream - flat as a board and easy to nail.</li>
+				<li>Yo mama is like a championship ring, everybody puts a finger in her.</li>
+				<li>Yo mama is like a chicken coop, cocks fly in and out all day.</li>
+				<li>Yo mama is like a Chinese restaurant - All you can eat for only $9.95!</li>
+				<li>Yo mama is like a Christmas tree, everybody hangs balls on her.</li>
+				<li>Yo mama is like a Discover card, she gives cash back.</li>
+				<li>Yo mama is like a door knob, everybody gets a turn.</li>
+				<li>Yo mama is like a fan - she's always blowing someone.</li>
+				<li>Yo mama is like a fine restaurant, she only takes deliveries in the rear.</li>
+				<li>Yo mama is like a gas station - you gotta pay before you pump!</li>
+				<li>Yo mama is like a goalie - she only changes her pads after three periods.</li>
+				<li>Yo mama is like a hockey player, she only showers after three periods.</li>
+				<li>Yo mama is like a library, she's open to the public.</li>
+				<li>Yo mama is like a light switch, even a little kid can turn her on.</li>
+				<li>Yo mama is like a mail box, open day and night.</li>
+				<li>Yo mama is like a microwave, press one button and she's hot.</li>
+				<li>Yo mama is like a paper towel, she picks up all kinds of slimy wet stuff.</li>
+				<li>Yo mama is like a slaughter house - everybody's hanging their meat up in her.</li>
+				<li>Yo mama is like a telephone, even a 3 year old can pick her up.</li>
+				<li>Yo mama is like a turtle - once she's on her back she's fucked.</li>
+				<li>Yo mama is like an ATM, open 24 hours.</li>
+				<li>Yo mama is like Bazooka Joe, 5 cents a blow.</li>
+				<li>Yo mama is like Dominoes Pizza, one call does it all.</li>
+				<li>Yo mama is like Humpty Dumpty - First she gets humped, then she gets dumped.</li>
+				<li>Yo mama is like Pizza Hut - if she isn't there in 30 minutes... it's Free!</li>
+				<li>Yo mama is like Sprint - 10 cents a minute anywhere in the country.</li>
+				<li>Yo mama is like the new AOL 4.0: Fun, Fast, Easy and Free!</li>
+				<li>Yo mama is like the sun, look at her too long and you'll go blind.</li>
+				<li>Yo mama is missing a finger and can't count past nine.</li>
+				<li>Yo mama is so bad at sex, the only kind of head she gives is severed.</li>
+				<li>Yo mama is so bald that even a wig wouldn't help!</li>
+				<li>Yo mama is so bald that I can tell fortunes on her head.</li>
+				<li>Yo mama is so bald that she took a shower and got brain-washed!</li>
+				<li>Yo mama is so bald that when she braids her hair, it looks like stitches.</li>
+				<li>Yo mama is so bald that when she goes to bed, her head slips off the pillow.</li>
+				<li>Yo mama is so bald that you can see what's on her mind.</li>
+				<li>Yo mama is so bald that you could draw a line down the middle of her head and it would look like my ass.</li>
+				<li>Yo mama is so big that doctors use scuba divers as nanobots to clean her arteries.</li>
+				<li>Yo mama is so dark that her ass looks like two tires.</li>
+				<li>Yo mama is so dark that her nickname is midnight.</li>
+				<li>Yo mama is so dark that she bleeds molasses.</li>
+				<li>Yo mama is so dark that she could show up naked to a funeral.</li>
+				<li>Yo mama is so dark that she drinks water and pees coffee.</li>
+				<li>Yo mama is so dark that she got her tattoo done in chalk.</li>
+				<li>Yo mama is so dark that she has to wear white gloves when she eats Tootsie Rolls to keep from eating her fingers.</li>
+				<li>Yo mama is so dark that she looks like a picture of outer-space with no stars... except when she smiles.</li>
+				<li>Yo mama is so dark that she makes asphalt look grey.</li>
+				<li>Yo mama is so dark that she spits chocolate milk!</li>
+				<li>Yo mama is so dark that she was riding a motorcycle and got a ticket for tinted windows.</li>
+				<li>Yo mama is so dark that she went to night school and was marked absent!</li>
+				<li>Yo mama is so dark that that she can leave fingerprints on charcoal.</li>
+				<li>Yo mama is so dark that when her eyes are red she looks like a beeper.</li>
+				<li>Yo mama is so dark that when she goes outside, the streetlights turn on.</li>
+				<li>Yo mama is so dark that when she goes swimming it looks like an oil spill.</li>
+				<li>Yo mama is so dark that when she puts lotion on her legs it looks like she has on patent leather pants.</li>
+				<li>Yo mama is so dark that when she puts on yellow lipstick, she looks like a cheese burger.</li>
+				<li>Yo mama is so dark that when she smiles at night she looks like a pack of floating Chicklets.</li>
+				<li>Yo mama is so dark that when the police shot at her, the bullets came back for flashlights.</li>
+				<li>Yo mama is so dirty that even Swamp Thing told her to take a shower.</li>
+				<li>Yo mama is so dirty that she has to creep up on bathwater.</li>
+				<li>Yo mama is so dirty that she loses weight in the shower.</li>
+				<li>Yo mama is so dirty that she makes mud look clean.</li>
+				<li>Yo mama is so dirty that that she was banned from a sewage facility because of sanitation concerns.</li>
+				<li>Yo mama is so dirty that that you can't tell where the dirt stops and she begins.</li>
+				<li>Yo mama is so dirty that the US Government uses her bath water as a chemical weapon.</li>
+				<li>Yo mama is so dirty that when she tried to take a bath, the water jumped out and said "I'll wait."</li>
+				<li>Yo mama is so dirty, she fertilizes her lawn by rolling in it!</li>
+				<li>Yo mama is so dirty, she jumped in a river and created a mud slide!</li>
+				<li>Yo mama is so dirty, when a seed gets stuck in her ass crack it beings to grow!</li>
+				<li>Yo mama is so dirty, when the wind blows people yell "Sand Storm!!!"</li>
+				<li>Yo mama is so dumb she thought that she could talk to snakes if she put parsley on her tongue</li>
+				<li>Yo mama is so dumb that a stupify spell actually made her smarter.</li>
+				<li>Yo mama is so dumb that she tried to rent a car from The Enterprise.</li>
+				<li>Yo mama is so dumb that she went to the dentist and asked for a bluetooth.</li>
+				<li>Yo mama is so dumb that when she found a vulcan, she tried to call Santa to take him back to the north pole.</li>
+				<li>Yo mama is so dumb that when she was handed the death note, she thought they were asking for her autograph.</li>
+				<li>Yo mama is so dumb, she failed out of Cromartie High School.</li>
+				<li>Yo mama is so dumb, she lost a spelling bee to Hodor</li>
+				<li>Yo mama is so dumb, she thought Bran Stark was a type of muffin.</li>
+				<li>Yo mama is so fat and dumb that the only reason she opened her email was because she heard it contained spam.</li>
+				<li>Yo mama is so fat even Grawp can't pick her up!</li>
+				<li>Yo mama is so fat her headphones are a pair of PA speakers connected to a car amplifier.</li>
+				<li>Yo mama is so fat MTX audio's subwoofers couldn't rattle her bones!</li>
+				<li>Yo mama is so fat she blew up the Deathstar.</li>
+				<li>Yo mama is so fat she makes a Snorlax look like a chihuahua!</li>
+				<li>Yo mama is so fat she makes Riker's belly look 3 atoms thick.</li>
+				<li>Yo mama is so fat she threw on a sheet for Halloween and went as Antarctica.</li>
+				<li>Yo mama is so fat she wears her own inertia dampener.</li>
+				<li>Yo mama is so fat that "ACORN" registered her to vote eight times!</li>
+				<li>Yo mama is so fat that a $700 billion bailout would only keep her fed for a week.</li>
+				<li>Yo mama is so fat that a picture of her would fall off the wall.</li>
+				<li>Yo mama is so fat that a recursive function computing her weight causes a stack overflow.</li>
+				<li>Yo mama is so fat that a wingardium leviosa spell couldn't lift her.</li>
+				<li>Yo mama is so fat that at the zoo, the elephants throw HER peanuts.</li>
+				<li>Yo mama is so fat that China uses her to block the internet.</li>
+				<li>Yo mama is so fat that Dexster Jettster mistook her for his wife.</li>
+				<li>Yo mama is so fat that Dracula got Type 2 Diabetes after biting her neck.</li>
+				<li>Yo mama is so fat that eating contests have banned her because she is unfair competition.</li>
+				<li>Yo mama is so fat that even Bill Gates couldn't pay for her liposuction!</li>
+				<li>Yo mama is so fat that even Chuck Norris couldn't run around her.</li>
+				<li>Yo mama is so fat that even Dora can't explore her!</li>
+				<li>Yo mama is so fat that even her clothes have stretch marks!</li>
+				<li>Yo mama is so fat that even her Quidditch robes have stretch marks.</li>
+				<li>Yo mama is so fat that even Mitt Romney couldn't afford to take her out to dinner!</li>
+				<li>Yo mama is so fat that even the Death Star couldn't blow her up!</li>
+				<li>Yo mama is so fat that even the Dementors can't suck her soul out in one sitting.</li>
+				<li>Yo mama is so fat that everytime she walks in high heels, she strikes oil!</li>
+				<li>Yo mama is so fat that Gardulla the Hutt had a boost in self-esteem after seeing her.</li>
+				<li>Yo mama is so fat that God couldn't light the Earth until she moved!</li>
+				<li>Yo mama is so fat that her belly button doesn't have lint, it has sweaters.</li>
+				<li>Yo mama is so fat that her bellybutton gets home 15 minutes before she does.</li>
+				<li>Yo mama is so fat that her bellybuttongs got an echo.</li>
+				<li>Yo mama is so fat that her biography is called "The Audacity of Hardee's".</li>
+				<li>Yo mama is so fat that her blood type is Ragu.</li>
+				<li>Yo mama is so fat that her butt drags on the ground and kids yell - "there goes santa claus with his bag of toys!"</li>
+				<li>Yo mama is so fat that her lack of balance caused her to stumble into an Utapau sinkhole.</li>
+				<li>Yo mama is so fat that her neck looks like a dozen hot dogs!</li>
+				<li>Yo mama is so fat that her sedan can fit 5 people... or just yo mama with the front seats removed.</li>
+				<li>Yo mama is so fat that her waist size is the Equator.</li>
+				<li>Yo mama is so fat that I had to take a train and two buses just to get on the her good side!</li>
+				<li>Yo mama is so fat that I ran around her twice and got lost.</li>
+				<li>Yo mama is so fat that I took a picture of her last Christmas and it's still printing!</li>
+				<li>Yo mama is so fat that IEEE is working on a wifi protocol so people can get the signals to reach users on opposite sides of her. It's called 802.11 Draft Fat Momma</li>
+				<li>Yo mama is so fat that if she confronted a boggart it would morph into a treadmill.</li>
+				<li>Yo mama is so fat that if she was thrown into the second Death Star's reactor core, she could have blown up the entire Imperial fleet.</li>
+				<li>Yo mama is so fat that if she were placed beside a changeling during regeneration, no one would know the difference.</li>
+				<li>Yo mama is so fat that it takes two boggarts to shape-shift into her!</li>
+				<li>Yo mama is so fat that it took the entire Dragon Ball Z crew 1 week just to lift her off the ground.</li>
+				<li>Yo mama is so fat that it took Usain Bolt 3 years to run around her.</li>
+				<li>Yo mama is so fat that light bends around her.</li>
+				<li>Yo mama is so fat that NASA has to orbit a satellite around her!</li>
+				<li>Yo mama is so fat that NASA shot a rocket into her ass looking for water.</li>
+				<li>Yo mama is so fat that only half her body was able to come out frozen from the carbon freezing chamber in Cloud City.</li>
+				<li>Yo mama is so fat that people jog around her for exercise.</li>
+				<li>Yo mama is so fat that Sarah Palin can see her from her house.</li>
+				<li>Yo mama is so fat that Sarah Palin can't see Russia anymore!.</li>
+				<li>Yo mama is so fat that scientists track her position by observing anomalies in Pluto's orbit.</li>
+				<li>Yo mama is so fat that she and the great wall of China are used as reference points when astronauts look back at the Earth.</li>
+				<li>Yo mama is so fat that she broke the HP limit!</li>
+				<li>Yo mama is so fat that she broke the Stairway to Heaven.</li>
+				<li>Yo mama is so fat that she can't even fit into an AOL chat room.</li>
+				<li>Yo mama is so fat that she can't even jump to a conclusion.</li>
+				<li>Yo mama is so fat that she cant even fit in the expanding plug suit.</li>
+				<li>Yo mama is so fat that she cant reach into her back pocket.</li>
+				<li>Yo mama is so fat that she caused Kamino to flood when her water broke.</li>
+				<li>Yo mama is so fat that she comes at you from all directions.</li>
+				<li>Yo mama is so fat that she could fall down and wouldn't even know it.</li>
+				<li>Yo mama is so fat that she could sell shade.</li>
+				<li>Yo mama is so fat that she crushed Boga as soon as she mounted her.</li>
+				<li>Yo mama is so fat that she cut her leg and gravy poured out</li>
+				<li>Yo mama is so fat that she doesn't eat with a fork, she eats with a forklift.</li>
+				<li>Yo mama is so fat that she doesn't get dreams, she gets movies!</li>
+				<li>Yo mama is so fat that she doesn't have a tailor, she has a contractor.</li>
+				<li>Yo mama is so fat that she doesn't just have a low center of gravity, she has an elliptical orbit.</li>
+				<li>Yo mama is so fat that she doesn't need the internet - she's worldwide.</li>
+				<li>Yo mama is so fat that she eats "Wheat Thicks".</li>
+				<li>Yo mama is so fat that she expresses her weight in scientific notation.</li>
+				<li>Yo mama is so fat that she fell and created the Grand Canyon!</li>
+				<li>Yo mama is so fat that she fell in love and broke it.</li>
+				<li>Yo mama is so fat that she fell out of both sides of her bed.</li>
+				<li>Yo mama is so fat that she fell to the dark side and couldn't get back up.</li>
+				<li>Yo mama is so fat that she gets group insurance.</li>
+				<li>Yo mama is so fat that she gets her toenails painted at Luckygs Auto Body.</li>
+				<li>Yo mama is so fat that she got hit by a car and had to go to the hospital to have it removed.</li>
+				<li>Yo mama is so fat that she got hit by a parked car!</li>
+				<li>Yo mama is so fat that she had to go to Sea World to get baptized.</li>
+				<li>Yo mama is so fat that she has been declared a natural habitat for condors.</li>
+				<li>Yo mama is so fat that she has her own gravity field.</li>
+				<li>Yo mama is so fat that she has more Chins than a Chinese phone book!</li>
+				<li>Yo mama is so fat that she has to buy three airline tickets.</li>
+				<li>Yo mama is so fat that she has to iron her pants on the driveway.</li>
+				<li>Yo mama is so fat that she has to pull down her pants to get into her pockets.</li>
+				<li>Yo mama is so fat that she has to put her belt on with a boomerang.</li>
+				<li>Yo mama is so fat that she has to use a VCR as a beeper!</li>
+				<li>Yo mama is so fat that she influences the tides.</li>
+				<li>Yo mama is so fat that she left the house in high heels and came back wearing flip flops.</li>
+				<li>Yo mama is so fat that she looked up cheat codes for Wii Fit</li>
+				<li>Yo mama is so fat that she looks like she's smuggling a Volkswagon!</li>
+				<li>Yo mama is so fat that she makes the USS Enterprise look like a micro machines racer.</li>
+				<li>Yo mama is so fat that she puts mayonnaise on aspirin.</li>
+				<li>Yo mama is so fat that she puts on her lipstick with a paint-roller!</li>
+				<li>Yo mama is so fat that she sets off car alarms when she runs.</li>
+				<li>Yo mama is so fat that she stands in two time zones.</li>
+				<li>Yo mama is so fat that she stepped on a rainbow and made Skittles.</li>
+				<li>Yo mama is so fat that she supported the bailout just because she wanted a 'barrel of pork'.</li>
+				<li>Yo mama is so fat that she sweats more than a dog in a chinese restaurant.</li>
+				<li>Yo mama is so fat that she thought the opening line of Kirk's monologue was "Spice, the final Frontier..."</li>
+				<li>Yo mama is so fat that she took geometry in high school just cause she heard there was gonna be some pi.</li>
+				<li>Yo mama is so fat that she tried to eat someone dressed as a box of Pocky!</li>
+				<li>Yo mama is so fat that she tried to fly through a temporal anomoly but she didn't fit.</li>
+				<li>Yo mama is so fat that she uses a mattress for a tampon.</li>
+				<li>Yo mama is so fat that she uses redwoods to pick her teeth</li>
+				<li>Yo mama is so fat that she uses the entire country of Mexico as her tanning bed.</li>
+				<li>Yo mama is so fat that she uses two buses for roller-blades.</li>
+				<li>Yo mama is so fat that she wakes up in sections!</li>
+				<li>Yo mama is so fat that she was born on the fourth, fifth, and sixth of June.</li>
+				<li>Yo mama is so fat that she was born with a silver shovel in her mouth.</li>
+				<li>Yo mama is so fat that she was cut from the cast of E.T., because she caused an eclipse when she rode the bike across the moon.</li>
+				<li>Yo mama is so fat that she was floating in the ocean and Spain claimed her for the New World.</li>
+				<li>Yo mama is so fat that she was in the Macygs Thanksgiving Day Parade... wearing ropes.</li>
+				<li>Yo mama is so fat that she was mistaken for Mt. Fuji at the Sakura festival.</li>
+				<li>Yo mama is so fat that she went on a light diet. As soon as itgs light she starts eating.</li>
+				<li>Yo mama is so fat that she went to the fair and the kids thought she was a bouncy castle.</li>
+				<li>Yo mama is so fat that she went to the movie theatre and sat next to everyone.</li>
+				<li>Yo mama is so fat that she's got Amtrak written on her leg.</li>
+				<li>Yo mama is so fat that she's got every caterer in the city on speed dial!</li>
+				<li>Yo mama is so fat that she's got her own area code!</li>
+				<li>Yo mama is so fat that she's on both sides of the family!</li>
+				<li>Yo mama is so fat that shegs half Italian, half Irish, and half American.</li>
+				<li>Yo mama is so fat that Spock couldn't find a pressure point to perform the Vulcan Death Grip on her.</li>
+				<li>Yo mama is so fat that that her senior pictures had to be taken from a helicopter!</li>
+				<li>Yo mama is so fat that that she cant tie her own shoes.</li>
+				<li>Yo mama is so fat that that when I tried to drive around her I ran out of gas.</li>
+				<li>Yo mama is so fat that that when she sits on the beach, Greenpeace shows up and tries to tow her back into the ocean...</li>
+				<li>Yo mama is so fat that the camera TAKES AWAY 10 lbs from her appearance.</li>
+				<li>Yo mama is so fat that the Dragon Ball Z crew uses her to make craters on set.</li>
+				<li>Yo mama is so fat that the highway patrol made her wear a sign saying "Caution! Wide Turn".</li>
+				<li>Yo mama is so fat that the housing bubble popped because she sat on it!</li>
+				<li>Yo mama is so fat that the Kaminoans couldn't use her as a host for clones since they couldn't pierce her skin deep enough to draw blood.</li>
+				<li>Yo mama is so fat that the last time she saw 90210, it was on a scale.</li>
+				<li>Yo mama is so fat that the last time the landlord saw her, he doubled the rent.</li>
+				<li>Yo mama is so fat that the long double numeric variable type in C++ is insufficient to express her weight.</li>
+				<li>Yo mama is so fat that the National Weather Service names each one of her farts.</li>
+				<li>Yo mama is so fat that the only exercise she gets is when she chases the ice cream truck.</li>
+				<li>Yo mama is so fat that the only pictures you have of her were taken by satellite cameras.</li>
+				<li>Yo mama is so fat that the passengers of the Millenium Falcon mistook her for a small moon.</li>
+				<li>Yo mama is so fat that the shadow of her butt weighs 100 pounds.</li>
+				<li>Yo mama is so fat that the sign inside one restaurant says, “Maximum occupancy: 300, or yo mama.”</li>
+				<li>Yo mama is so fat that the sorting hat couldn't decide where to put her - she couldn't fit in any of the houses!!</li>
+				<li>Yo mama is so fat that the Sorting Hat put her in all four houses!</li>
+				<li>Yo mama is so fat that the stripes on her pajamas never end.</li>
+				<li>Yo mama is so fat that they have to grease the bath tub to get her out!</li>
+				<li>Yo mama is so fat that they use the elastic in her underwear for bungee jumping.</li>
+				<li>Yo mama is so fat that THX can't even surround her.</li>
+				<li>Yo mama is so fat that we went to the drive-in and didn't have to pay for her because we dressed her up as a Toyota.</li>
+				<li>Yo mama is so fat that we're in her right now!</li>
+				<li>Yo mama is so fat that Weight Watchers won't look at her.</li>
+				<li>Yo mama is so fat that when she asked for a waterbed, they put a blanket over the ocean!</li>
+				<li>Yo mama is so fat that when she asked me "what's up?" I said "your weight!"</li>
+				<li>Yo mama is so fat that when she beams to a ship, the ship beams inside of her.</li>
+				<li>Yo mama is so fat that when she bungee jumps she goes straight to hell!</li>
+				<li>Yo mama is so fat that when she bungee jumps, she brings down the bridge too.</li>
+				<li>Yo mama is so fat that when she climbed onto a diving board at the beach, the lifeguard told your dad "sorry, you can't park here".</li>
+				<li>Yo mama is so fat that when she dances at a concert the whole band skips.</li>
+				<li>Yo mama is so fat that when she fell over she rocked herself asleep trying to get up again.</li>
+				<li>Yo mama is so fat that when she gets in an elevator, it has to go down.</li>
+				<li>Yo mama is so fat that when she gets on the scale it says "to be continued".</li>
+				<li>Yo mama is so fat that when she gets on the scale it says "We don't do livestock".</li>
+				<li>Yo mama is so fat that when she goes on a scale, it reads "lose some weight".</li>
+				<li>Yo mama is so fat that when she goes on a scale, it shows her own phone number.</li>
+				<li>Yo mama is so fat that when she goes to a buffet, she gets the group rate.</li>
+				<li>Yo mama is so fat that when she goes to a resturant, she looks at the menu and says "okay!"</li>
+				<li>Yo mama is so fat that when she goes to an all you can eat buffet, they have to install speed bumps.</li>
+				<li>Yo mama is so fat that when she goes to an amusement park, people try to ride HER!</li>
+				<li>Yo mama is so fat that when she got hit by a bus, she said, "Who threw that rock at me?"</li>
+				<li>Yo mama is so fat that when she got upgraded by the cybermen, they turned her into an ice cream truck</li>
+				<li>Yo mama is so fat that when she hauls ass, she has to make two trips.</li>
+				<li>Yo mama is so fat that when she jumps up in the air she gets stuck!</li>
+				<li>Yo mama is so fat that when she lays on the beach, people run around yelling Free Willy.</li>
+				<li>Yo mama is so fat that when she lies on the beach no one else gets any sun!</li>
+				<li>Yo mama is so fat that when she plays hopscotch, she goes "New York, L.A., Chicago..."</li>
+				<li>Yo mama is so fat that when she ran away, they had to use all four sides of the milk carton to display her picture.</li>
+				<li>Yo mama is so fat that when she runs the fifty-yard dash she needs an overnight bag.</li>
+				<li>Yo mama is so fat that when she sat down on a park bench, she caused the Naruto timeskip.</li>
+				<li>Yo mama is so fat that when she sat on an iphone, it turned into an ipad.</li>
+				<li>Yo mama is so fat that when she sits around the house, she SITS AROUND THE HOUSE!</li>
+				<li>Yo mama is so fat that when she sits on my face I can't hear the stereo.</li>
+				<li>Yo mama is so fat that when she stepped on the scale, her weight was OVER 9000!!!</li>
+				<li>Yo mama is so fat that when she steps on a scale, it reads "one at a time, please".</li>
+				<li>Yo mama is so fat that when she takes a shower, her feet don't get wet.</li>
+				<li>Yo mama is so fat that when she talks to herself, it's a long distance call.</li>
+				<li>Yo mama is so fat that when she tried to captain a galaxy class they had to separate the saucer so she could fit.</li>
+				<li>Yo mama is so fat that when she tripped on 4th Ave, she landed on 12th.</li>
+				<li>Yo mama is so fat that when she turns around people throw her a welcome back party.</li>
+				<li>Yo mama is so fat that when she visited Toronto's City Hall, she was arrested for attempting to smuggle 500 lbs of crack into Mayor Rob Ford's office.</li>
+				<li>Yo mama is so fat that when she walked in front of the TV, I missed 3 seasons of Breaking Bad.</li>
+				<li>Yo mama is so fat that when she walks into a room the replicators stop working.</li>
+				<li>Yo mama is so fat that when she walks, she changes the earth's rotation!</li>
+				<li>Yo mama is so fat that when she wants to shake someones hand, she has to give directions!</li>
+				<li>Yo mama is so fat that when she was born, she gave the hospital stretch marks.</li>
+				<li>Yo mama is so fat that when she was diagnosed with a flesh-eating disease, the doctor gave her ten years to live.</li>
+				<li>Yo mama is so fat that when she was growing up she didn't play with dolls, she played with midgets.</li>
+				<li>Yo mama is so fat that when she wears a "Malcolm X" T-shirt, helicopters try to land on her back!</li>
+				<li>Yo mama is so fat that when she wears a yellow raincoat, people yell "taxi!"</li>
+				<li>Yo mama is so fat that when she went to church and sat on a bible, Jesus came out and said "LET MY PEOPLE GO!"</li>
+				<li>Yo mama is so fat that when she went to seaworld the whales started singing "We Are Family".</li>
+				<li>Yo mama is so fat that when shegs standing on the corner police drive by and yell, “Hey, break it up.”</li>
+				<li>Yo mama is so fat that when we were playing Call of Duty, I got a 20 kill streak for killing her.</li>
+				<li>Yo mama is so fat that when you get on top of her your ears pop.</li>
+				<li>Yo mama is so fat that whenever she goes to the beach the tide comes in!</li>
+				<li>Yo mama is so fat the core of her wand has a creame filling.</li>
+				<li>Yo mama is so fat the odds against not finding her fat are approximately 3,720 to 1.</li>
+				<li>Yo mama is so fat the Sorting Hat assigned her to the House of Pancakes.</li>
+				<li>Yo mama is so fat they'd have to use transfiguration to sneak her through the hole in the Gryffindor Tower.</li>
+				<li>Yo mama is so fat when she goes skydiving she doesn't use a parachute to land, she uses a twin-engine plane!</li>
+				<li>Yo mama is so fat you have to roll over twice to get off her.</li>
+				<li>Yo mama is so fat, Al Gore accuses her of global warning everytime she farts!</li>
+				<li>Yo mama is so fat, all she wants for Christmas is to see her feet.</li>
+				<li>Yo mama is so fat, Choji told her to lose weight.</li>
+				<li>Yo mama is so fat, Data feels strong emotions of disgust and self-terminates.</li>
+				<li>Yo mama is so fat, even Roose Bolton won't touch her</li>
+				<li>Yo mama is so fat, her Patronus is a Double-Whopper with Cheese.</li>
+				<li>Yo mama is so fat, it doesn't matter that the Tardis is bigger on the inside. She can't get through the door.</li>
+				<li>Yo mama is so fat, Naruto couldnt make enough clones to see all sides of her.</li>
+				<li>Yo mama is so fat, she ate the Death Eaters.</li>
+				<li>Yo mama is so Fat, she can't fit through the moon door.</li>
+				<li>Yo mama is so fat, she got stuck trying to enter the Nexus.</li>
+				<li>Yo mama is so fat, she looked in the mirror of Erised and saw a ham!</li>
+				<li>Yo mama is so fat, she makes Hagrid look like "Mini-me".</li>
+				<li>Yo mama is so fat, she makes Vash look anorexic!</li>
+				<li>Yo mama is so fat, she managed to contain a warp core breach.</li>
+				<li>Yo mama is so fat, she scared L into giving up all sweets.</li>
+				<li>Yo mama is so fat, she tried to eat Cornelius Fudge.</li>
+				<li>Yo mama is so fat, she used the invisibility cloak as a bib.</li>
+				<li>Yo mama is so fat, she walked in front of the TV and I missed three seasons of Inuyasha!</li>
+				<li>Yo mama is so fat, she Winter-fell and couldn't get up!</li>
+				<li>Yo mama is so fat, she's bigger than both the outside AND the inside of the Tardis</li>
+				<li>Yo mama is so fat, that in an attempt to beam her up, the ship ended up being pulled down to the surface.</li>
+				<li>Yo mama is so fat, that went she stepped in the water, Thailand had to declare another tsunami warning.</li>
+				<li>Yo mama is so fat, the cyberman DOWNgraded her.</li>
+				<li>Yo mama is so fat, the Doctor caught her eating his psychic paper, thinking it was a burger.</li>
+				<li>Yo mama is so fat, the Pirate Planet tried to take her over.</li>
+				<li>Yo mama is so fat, they've been calling her "the wall" for thousands of years!</li>
+				<li>Yo mama is so fat, when she fell over, she punched a hole in the fabric of space/time.</li>
+				<li>Yo mama is so flat that she makes the walls jealous!</li>
+				<li>Yo mama is so flatulent that she forced the Mustafarians to wear masks!</li>
+				<li>Yo mama is so greasy that her face could free the U.S. from its dependence on foreign oil.</li>
+				<li>Yo mama is so greasy that her freckles slipped off.</li>
+				<li>Yo mama is so greasy that I buttered my popcorn with her leg hairs.</li>
+				<li>Yo mama is so greasy that if Crisco had a football team, she'd be the mascot.</li>
+				<li>Yo mama is so greasy that she squeezes Crisco from her hair to bake cookies.</li>
+				<li>Yo mama is so greasy that she sweats butter and syrup and has a full time job at Denny's wiping pancakes across her forehead.</li>
+				<li>Yo mama is so greasy that she sweats Crisco!</li>
+				<li>Yo mama is so greasy that she uses bacon as a band-aid!</li>
+				<li>Yo mama is so greasy that she's labeled as an ingredient in Crisco.</li>
+				<li>Yo mama is so greasy that Texaco buys Oil from her.</li>
+				<li>Yo mama is so greasy that you could fry a chicken dinner for 12 on her forehead.</li>
+				<li>Yo mama is so greasy, on hot days she cooks bacon strips on her ass cheeks!</li>
+				<li>Yo mama is so grouchy that the McDonalds she works in doesn't even serve Happy Meals.</li>
+				<li>Yo mama is so hairy and ugly that she got used as Ashitare's stunt double.</li>
+				<li>Yo mama is so hairy Naruto thought she was a Summon.</li>
+				<li>Yo mama is so hairy that Bigfoot wants to take HER picture!</li>
+				<li>Yo mama is so hairy that her armpits look like she has Don King in a headlock.</li>
+				<li>Yo mama is so hairy that if she could fly she'd look like a magic carpet.</li>
+				<li>Yo mama is so hairy that if you shaved her legs, you could supply wigs for the entire Hair Club for Men.</li>
+				<li>Yo mama is so hairy that Jane Goodall follows her around.</li>
+				<li>Yo mama is so hairy that people run up to her and say "Chewbacca, can I get your autograph?"</li>
+				<li>Yo mama is so hairy that she gets mistaken for Chewbacca's cousin.</li>
+				<li>Yo mama is so hairy that she got a trim and lost 20 pounds.</li>
+				<li>Yo mama is so hairy that she has afros on her nipples.</li>
+				<li>Yo mama is so hairy that she has to go to Furfest to meet a man.</li>
+				<li>Yo mama is so hairy that she looks like a Chia pet with a sweater on.</li>
+				<li>Yo mama is so hairy that she looks like Bigfoot in a tank top.</li>
+				<li>Yo mama is so hairy that she looks like she has Buckwheat in a headlock.</li>
+				<li>Yo mama is so hairy that she shaves her legs with a weedwacker.</li>
+				<li>Yo mama is so hairy that she's got sideburns on her tits.</li>
+				<li>Yo mama is so hairy that the only language she can speak is wookie.</li>
+				<li>Yo mama is so hairy that they filmed "Gorillas in the Mist" in her shower!</li>
+				<li>Yo mama is so hairy that two birds made nests in her armpits and she doesn't even know about it!</li>
+				<li>Yo mama is so hairy that when I took her to a pet store they locked her in a cage.</li>
+				<li>Yo mama is so hairy that when she's at a nude beach people think she's wearing a fur coat!</li>
+				<li>Yo mama is so hairy that you almost died of rugburn at birth!</li>
+				<li>Yo mama is so hunchbacked, she can stand on her feet and her head at the same time.</li>
+				<li>Yo mama is so hunchbacked, she has to look up to tie her shoes.</li>
+				<li>Yo mama is so hunchbacked, she has to wear goggles to wash dishes.</li>
+				<li>Yo mama is so hunchbacked, she hits her head on speed bumps.</li>
+				<li>Yo mama is so lazy that she came in last place in a recent snail marathon.</li>
+				<li>Yo mama is so lazy that she thinks a two-income family is where yo daddy has two jobs.</li>
+				<li>Yo mama is so lazy that she's got a remote control just to operate her remote!</li>
+				<li>Yo mama is so lazy, she's a "part-time" lord</li>
+				<li>Yo mama is so lonely that she buys hot dogs and nuts wishing she could have sex with them.</li>
+				<li>Yo mama is so masculine that Dumbledore would sleep with her!</li>
+				<li>Yo mama is so nasty that a skunk smelled her ass and passed out.</li>
+				<li>Yo mama is so nasty that even dogs won't sniff her crotch.</li>
+				<li>Yo mama is so nasty that every time she opens her mouth she's talking shit.</li>
+				<li>Yo mama is so nasty that her crabs use her tampon string as a bungee cord.</li>
+				<li>Yo mama is so nasty that her shit is glad to escape.</li>
+				<li>Yo mama is so nasty that her tits leak sour milk.</li>
+				<li>Yo mama is so nasty that I chatted with her on MSN and she gave me a virus.</li>
+				<li>Yo mama is so nasty that I when I talked to her on the phone, she gave me an ear infection.</li>
+				<li>Yo mama is so nasty that next to her a skunk smells sweet.</li>
+				<li>Yo mama is so nasty that she bit the dog and gave it rabies.</li>
+				<li>Yo mama is so nasty that she brings crabs to the beach.</li>
+				<li>Yo mama is so nasty that she calls Janet "Miss Jackson."</li>
+				<li>Yo mama is so nasty that she has a sign by her crotch that says: "Warning: May cause irritation, drowsiness, and a rash or breakouts."</li>
+				<li>Yo mama is so nasty that she has more crabs then Red Lobster.</li>
+				<li>Yo mama is so nasty that she has more rappers in her than an iPod.</li>
+				<li>Yo mama is so nasty that she has to use Right Guard and Left Guard.</li>
+				<li>Yo mama is so nasty that she made right guard turn left.</li>
+				<li>Yo mama is so nasty that she makes speed stick slow down.</li>
+				<li>Yo mama is so nasty that she only changes her drawers once every 10000 miles.</li>
+				<li>Yo mama is so nasty that she's got more clap than an auditorium.</li>
+				<li>Yo mama is so nasty that that pours salt water down her pants to keep her crabs fresh.</li>
+				<li>Yo mama is so nasty that the fishery pays her to stay away.</li>
+				<li>Yo mama is so nasty that the only dis I want to give her is a disinfectant.</li>
+				<li>Yo mama is so nasty that the order of the phoenix was "stay away from that woman!"</li>
+				<li>Yo mama is so nasty that when you were being delivered, the doctor was wearing the oxygen mask.</li>
+				<li>Yo mama is so nasty, every pair of her panties has the Dark Mark on them.</li>
+				<li>Yo mama is so nasty, the Forbidden Forrest was named after her.</li>
+				<li>Yo mama is so old and fat they use her wrinkles as set terrain for Dragon Ball Z.</li>
+				<li>Yo mama is so old even Guinan refers to her as "old bag".</li>
+				<li>Yo mama is so old she gave Nicholas Flamel his first kiss.</li>
+				<li>Yo mama is so old she makes Dumbledore look like a teenager.</li>
+				<li>Yo mama is so old she remembers when the Mayans published their calendar.</li>
+				<li>Yo mama is so old that her birth certificate is written in Roman numerals.</li>
+				<li>Yo mama is so old that her birth certificate says "expired" on it.</li>
+				<li>Yo mama is so old that her memory is in black and white.</li>
+				<li>Yo mama is so old that her social security number is 1.</li>
+				<li>Yo mama is so old that I told her to act her own age, and she died.</li>
+				<li>Yo mama is so old that she baby-sat for Jesus.</li>
+				<li>Yo mama is so old that she called the cops when David and Goliath started to fight.</li>
+				<li>Yo mama is so old that she co-wrote the Ten Commandments.</li>
+				<li>Yo mama is so old that she DJ'd at the Boston Tea Party.</li>
+				<li>Yo mama is so old that she drove a chariot to high school.</li>
+				<li>Yo mama is so old that she goes on carbon dates.</li>
+				<li>Yo mama is so old that she has a picture of Moses in her yearbook.</li>
+				<li>Yo mama is so old that she has an autographed bible.</li>
+				<li>Yo mama is so old that she knew Burger King while he was still a prince.</li>
+				<li>Yo mama is so old that she knew Cap'n Crunch while he was still a private.</li>
+				<li>Yo mama is so old that she knew Mr. Clean when he had an afro.</li>
+				<li>Yo mama is so old that she knew the Beetles when they were the New Kids on the Block.</li>
+				<li>Yo mama is so old that she learned to write on cave walls.</li>
+				<li>Yo mama is so old that she needed a walker when Jesus was still in diapers.</li>
+				<li>Yo mama is so old that she owes Fred Flintstone a food stamp.</li>
+				<li>Yo mama is so old that she owes Jesus a dollar.</li>
+				<li>Yo mama is so old that she planted the first tree at Central Park.</li>
+				<li>Yo mama is so old that she ran track with dinosaurs.</li>
+				<li>Yo mama is so old that she sat next to Jesus in third grade.</li>
+				<li>Yo mama is so old that she took her drivers test on a dinosaur.</li>
+				<li>Yo mama is so old that she walked into an antique store and they kept her.</li>
+				<li>Yo mama is so old that she was a waitress at the Last Supper.</li>
+				<li>Yo mama is so old that she's mentioned in the shout out at the end of the bible.</li>
+				<li>Yo mama is so old that that when she was in school there was no history class.</li>
+				<li>Yo mama is so old that the candles cost more than the birthday cake.</li>
+				<li>Yo mama is so old that when God said "Let there be light" she was there to flick the switch.</li>
+				<li>Yo mama is so old that when Moses split the red sea, she was on the other side fishing.</li>
+				<li>Yo mama is so old that when she farts, dust comes out.</li>
+				<li>Yo mama is so old that when she was born, the Dead Sea was just getting sick.</li>
+				<li>Yo mama is so old that when she was young rainbows were black and white.</li>
+				<li>Yo mama is so old, her boobs look like two upside down Sorting Hats!</li>
+				<li>Yo mama is so old, she used to babysit Dumbledore.</li>
+				<li>Yo mama is so old, the old gods pray to HER!</li>
+				<li>Yo mama is so pasty, she makes Ron Weasely look like George Hamilton.</li>
+				<li>Yo mama is so poor Nigerian scammers wire HER money!</li>
+				<li>Yo mama is so poor she can't even afford a Gringotts account.</li>
+				<li>Yo mama is so poor she couldn't afford to apply for Medicare!</li>
+				<li>Yo mama is so poor she had to go to the Weasley's for a loan.</li>
+				<li>Yo mama is so poor that after I pissed in your yard, she thanked me for watering the lawn.</li>
+				<li>Yo mama is so poor that burglars break in and leave money.</li>
+				<li>Yo mama is so poor that Dobby gave her a sock to keep her foot warm.</li>
+				<li>Yo mama is so poor that for halloween, her trick was the treat.</li>
+				<li>Yo mama is so poor that her face is on the front of a foodstamp.</li>
+				<li>Yo mama is so poor that her front and back doors are on the same hinge.</li>
+				<li>Yo mama is so poor that her idea of a fortune cookie is a tortilla with a food stamp in it.</li>
+				<li>Yo mama is so poor that her idea of a timeshare is a few days camped out under a bridge.</li>
+				<li>Yo mama is so poor that I came over for dinner and she read me recipes.</li>
+				<li>Yo mama is so poor that I saw her running after a garbage truck with a shopping list.</li>
+				<li>Yo mama is so poor that I saw her wrestling a squirrel for a peanut.</li>
+				<li>Yo mama is so poor that I stepped on her skateboard and she said "Hey, get off the car!"</li>
+				<li>Yo mama is so poor that I threw a rock at a trash can and she popped out and said "Who knocked?"</li>
+				<li>Yo mama is so poor that I walked into her house and swatted a firefly and Yo Mama said, "Who turned off the lights?"</li>
+				<li>Yo mama is so poor that I walked into her house, asked to use the bathroom, and she said "3rd bucket to your right."</li>
+				<li>Yo mama is so poor that I went through her front door and ended up in the back yard.</li>
+				<li>Yo mama is so poor that I went to her house and tore down some cob webs, and she said "Who's tearing down the drapes?"</li>
+				<li>Yo mama is so poor that she can't afford to pay attention!</li>
+				<li>Yo mama is so poor that she can't even afford to go to the free clinic.</li>
+				<li>Yo mama is so poor that she can't even put her two cents in this conversation.</li>
+				<li>Yo mama is so poor that she got in an elevator and thought it was a mobile home.</li>
+				<li>Yo mama is so poor that she had to get a second mortgage on her cardboard box.</li>
+				<li>Yo mama is so poor that she has to take the trash IN.</li>
+				<li>Yo mama is so poor that she has to wear her McDonald's uniform to church.</li>
+				<li>Yo mama is so poor that she lives in a two story Dorrito bag with a dog named Chip.</li>
+				<li>Yo mama is so poor that she married young just to get the rice!</li>
+				<li>Yo mama is so poor that she was in K-Mart with a box of Hefty bags and when I asked her what she was doing she said, "Buying luggage."</li>
+				<li>Yo mama is so poor that she washes paper plates.</li>
+				<li>Yo mama is so poor that she watches TV on an Etch-A-Sketch.</li>
+				<li>Yo mama is so poor that she waves around a popsicle stick and calls it air conditioning.</li>
+				<li>Yo mama is so poor that she went to McDonald's and put a milkshake on layaway.</li>
+				<li>Yo mama is so poor that she's got more furniture on her porch than in her house.</li>
+				<li>Yo mama is so poor that the bank repossesed her cardboard box.</li>
+				<li>Yo mama is so poor that the closest thing to a car she has is a low-rider shopping cart with a box on it.</li>
+				<li>Yo mama is so poor that we were on a road trip and she stopped by a dumpster and got out. I said "what are you doing" and she said I'm "booking a hotel!"</li>
+				<li>Yo mama is so poor that when I asked what was for dinner, she pulled her shoelaces off and said "Spagetti."</li>
+				<li>Yo mama is so poor that when I ring the doorbell I hear the toilet flush!</li>
+				<li>Yo mama is so poor that when I ring the doorbell she says,"DING!"</li>
+				<li>Yo mama is so poor that when I saw her in the park digging up plants, she said she was "getting groceries".</li>
+				<li>Yo mama is so poor that when I saw her kicking a can down the street, I asked her what she was doing, and she said "moving."</li>
+				<li>Yo mama is so poor that when I saw her rolling some trash cans around in an alley, I asked her what she was doing, she said "Remodeling."</li>
+				<li>Yo mama is so poor that when I saw her walking down the street with one shoe and said "Hey miss, lost a shoe?" she said "Nope, just found one!"</li>
+				<li>Yo mama is so poor that when I walked inside her house and put out a cigarette, she said "who turned off the heater?"</li>
+				<li>Yo mama is so poor that when I went over to her house for dinner and grabbed a paper plate, she said "Don't use the good china!"</li>
+				<li>Yo mama is so poor that when she goes to KFC, she has to lick other people's fingers!</li>
+				<li>Yo mama is so poor that when she tells people her address, she says "it's in the second alley from main street, beside the yellow dumpster."</li>
+				<li>Yo mama is so poor that when yo family watches TV, they go to Sears.</li>
+				<li>Yo mama is so poor that your family ate cereal with a fork to save milk.</li>
+				<li>Yo mama is so poor that your TV got 2 channels: ON and OFF.</li>
+				<li>Yo mama is so poor, that her doormat doesn't say "welcome", it says "welfare".</li>
+				<li>Yo mama is so promiscuous that electrons have a positive charge when they're around her.</li>
+				<li>Yo mama is so round that she makes a Pokéball look flat!</li>
+				<li>Yo mama is so short that her homies are the Keebler Elfs.</li>
+				<li>Yo mama is so short that she can do push-ups under the door.</li>
+				<li>Yo mama is so short that she can limbo under the door.</li>
+				<li>Yo mama is so short that she can play handball on the curb.</li>
+				<li>Yo mama is so short that she does backflips under the bed.</li>
+				<li>Yo mama is so short that she does pull-ups on a staple.</li>
+				<li>Yo mama is so short that she has to get a running start to get up on the toilet.</li>
+				<li>Yo mama is so short that she has to look up to look down.</li>
+				<li>Yo mama is so short that she has to use a ladder to pick up a dime.</li>
+				<li>Yo mama is so short that she makes Gary Coleman look like Shaquille O'Neal.</li>
+				<li>Yo mama is so short that she models for trophys.</li>
+				<li>Yo mama is so short that she slam-dunks her bus fare.</li>
+				<li>Yo mama is so short that she uses a condom for a sleeping bag.</li>
+				<li>Yo mama is so short that when I was dissin' her she tried to jump kick me in the ankle.</li>
+				<li>Yo mama is so short that when she sat on the curb her feet didn't touch the ground.</li>
+				<li>Yo mama is so short that when she sneezes, she hits her head on the floor.</li>
+				<li>Yo mama is so short that you can see her feet on her drivers license!</li>
+				<li>Yo mama is so short, you can make a life size sculpture of her using one can of Play-Doh.</li>
+				<li>Yo mama is so skanky that the reason you're called a Half-Blood Prince is because she has no idea who your father is!</li>
+				<li>Yo mama is so skinny that her bra fits better when she wears it backwards.</li>
+				<li>Yo mama is so skinny that her nipples touch.</li>
+				<li>Yo mama is so skinny that her pants only have one belt loop.</li>
+				<li>Yo mama is so skinny that I could blind-fold her with dental floss.</li>
+				<li>Yo mama is so skinny that if she had a sesame seed on her head, she'd look like a push pin.</li>
+				<li>Yo mama is so skinny that if she had a yeast infection she'd be a Quarter Pounder with Cheese.</li>
+				<li>Yo mama is so skinny that if she had dreads I'd grab her by the ankles and use her to mop the floor.</li>
+				<li>Yo mama is so skinny that if she turned sideways and stuck out her tongue, she would look like a zipper.</li>
+				<li>Yo mama is so skinny that instead of calling her your parent, you call her transparent.</li>
+				<li>Yo mama is so skinny that she can dodge rain drops.</li>
+				<li>Yo mama is so skinny that she can see out a peephole with both eyes.</li>
+				<li>Yo mama is so skinny that she goes hot tubbing with the Mini Wheats Man.</li>
+				<li>Yo mama is so skinny that she had to stand in the same place twice to cast a shadow.</li>
+				<li>Yo mama is so skinny that she has to run around in the shower to get wet.</li>
+				<li>Yo mama is so skinny that she has to wear a belt with spandex.</li>
+				<li>Yo mama is so skinny that she hula hoops with a Cheerio.</li>
+				<li>Yo mama is so skinny that she inspires crack whores to diet.</li>
+				<li>Yo mama is so skinny that she looks like a mic stand.</li>
+				<li>Yo mama is so skinny that she only has one stripe on her pajamas.</li>
+				<li>Yo mama is so skinny that she swallowed a meatball and thought she was pregnant.</li>
+				<li>Yo mama is so skinny that she turned sideways and disappeared.</li>
+				<li>Yo mama is so skinny that she uses a Band-Aid as a maxi-pad.</li>
+				<li>Yo mama is so skinny that she uses Chapstick for deodorant.</li>
+				<li>Yo mama is so skinny that when she takes a bath and lets the water out, her toes get caught in the drain.</li>
+				<li>Yo mama is so skinny that when she wore her yellow dress, she looked like an HB pencil.</li>
+				<li>Yo mama is so skinny that you can save her from drowning by tossing her a Fruit Loop.</li>
+				<li>Yo mama is so slow and dumb that she can be emulated on a 286.</li>
+				<li>Yo mama is so small that she goes paragliding on a Dorito.</li>
+				<li>Yo mama is so smelly, Bertie Bott made her his next jelly bean flavor.</li>
+				<li>Yo mama is so stanky that not even dobby would accept one of her socks.</li>
+				<li>Yo mama is so stupid she makes Tristan look like Einstein!</li>
+				<li>Yo mama is so stupid she thinks Patronus is a kind of Tequlia.</li>
+				<li>Yo mama is so stupid that at bottom of application where it says Sign Here - she put Scorpio.</li>
+				<li>Yo mama is so stupid that her exchange particle is a "moron".</li>
+				<li>Yo mama is so stupid that I saw her in the frozen food section with a fishing rod.</li>
+				<li>Yo mama is so stupid that I saw her jumping up and down, asked what she was doing, and she said she drank a bottle of medicine and forgot to shake it.</li>
+				<li>Yo mama is so stupid that I saw her walking down the street yelling into an envelope, asked what she was doing, and she said sending a voice mail.</li>
+				<li>Yo mama is so stupid that I told her Christmas was just around the corner and she went looking for it.</li>
+				<li>Yo mama is so stupid that I told her I was reading a book by Homer and she asked if I had anything written by Bart.</li>
+				<li>Yo mama is so stupid that if she spoke her mind, she'd be speechless.</li>
+				<li>Yo mama is so stupid that if you gave her a penny for her thoughts, you'd get change.</li>
+				<li>Yo mama is so stupid that in the 'No Child Left Behind' act there's a provision that exempts yo mama.</li>
+				<li>Yo mama is so stupid that it takes her an hour to cook minute rice.</li>
+				<li>Yo mama is so stupid that it took her 2 hours to watch 60 Minutes!</li>
+				<li>Yo mama is so stupid that on her job application where it says emergency contact she put 911.</li>
+				<li>Yo mama is so stupid that she asked for a price check at the dollar store.</li>
+				<li>Yo mama is so stupid that she asked me what yield meant, I said "Slow down" and she said "What... does.... yield... mean?"</li>
+				<li>Yo mama is so stupid that she asked you "What is the number for 911?"</li>
+				<li>Yo mama is so stupid that she bought a solar-powered flashlight!</li>
+				<li>Yo mama is so stupid that she bought a videocamera to record cable tv shows at home.</li>
+				<li>Yo mama is so stupid that she bought tickets to Xbox Live.</li>
+				<li>Yo mama is so stupid that she brought a cup to the movie "Juice."</li>
+				<li>Yo mama is so stupid that she called the 7-11 to see when they closed.</li>
+				<li>Yo mama is so stupid that she can't make Jello because she can't fit 2 quarts of water in the box.</li>
+				<li>Yo mama is so stupid that she climbed over a glass wall to see what was behind it.</li>
+				<li>Yo mama is so stupid that she failed a survey.</li>
+				<li>Yo mama is so stupid that she got hit by a parked car.</li>
+				<li>Yo mama is so stupid that she got locked in a Furniture store and slept on the floor.</li>
+				<li>Yo mama is so stupid that she got locked in a grocery store and starved!</li>
+				<li>Yo mama is so stupid that she got locked inside a motorcycle.</li>
+				<li>Yo mama is so stupid that she got locked out of a convertible car with the top down.</li>
+				<li>Yo mama is so stupid that she got stabbed in a shoot out.</li>
+				<li>Yo mama is so stupid that she leaves the house for the Home Shopping Network.</li>
+				<li>Yo mama is so stupid that she locked her keys inside a motorcycle.</li>
+				<li>Yo mama is so stupid that she makes Beavis and Butt-Head look like Nobel Prize winners.</li>
+				<li>Yo mama is so stupid that she needs twice as much sense to be a half-wit.</li>
+				<li>Yo mama is so stupid that she once attempted to commit suicide by jumping off a curb.</li>
+				<li>Yo mama is so stupid that she ordered a cheese burger from McDonald's and said "Hold the cheese."</li>
+				<li>Yo mama is so stupid that she ordered her sushi well done.</li>
+				<li>Yo mama is so stupid that she picked up the phone and asked "What button do I push?"</li>
+				<li>Yo mama is so stupid that she put 2 quarters in her ears and thought she was listening to 50 cent.</li>
+				<li>Yo mama is so stupid that she put a peephole in a glass door.</li>
+				<li>Yo mama is so stupid that she put a phone up her ass and thought she was making a booty call.</li>
+				<li>Yo mama is so stupid that she put a quarter in a parking meter and waited for a gumball to come out.</li>
+				<li>Yo mama is so stupid that she put on a coat to chew winterfresh gum.</li>
+				<li>Yo mama is so stupid that she put on bug spray before going to the flea market.</li>
+				<li>Yo mama is so stupid that she put on her glasses to watch 20/20.</li>
+				<li>Yo mama is so stupid that she puts lipstick on her head just to make-up her mind</li>
+				<li>Yo mama is so stupid that she ran outside with a purse because she heard there was change in the weather.</li>
+				<li>Yo mama is so stupid that she said "what's that letter after x" and I said Y she said "Cause I wanna know".</li>
+				<li>Yo mama is so stupid that she sat in a tree house because she wanted to be a branch manager.</li>
+				<li>Yo mama is so stupid that she sent me a fax with a stamp on it.</li>
+				<li>Yo mama is so stupid that she shoved a AA battery up her butt and said "I got the power!"</li>
+				<li>Yo mama is so stupid that she sits on the TV, and watches the couch!</li>
+				<li>Yo mama is so stupid that she sold her car for gas money!</li>
+				<li>Yo mama is so stupid that she sold the house to pay the mortgage.</li>
+				<li>Yo mama is so stupid that she spent twenty minutes lookin' at an orange juice box because it said "concentrate".</li>
+				<li>Yo mama is so stupid that she stole free bread.</li>
+				<li>Yo mama is so stupid that she stopped at a stop sign and waited for it to say go.</li>
+				<li>Yo mama is so stupid that she thinks a quarterback is a refund!</li>
+				<li>Yo mama is so stupid that she thinks a stereotype is the brand on her clock-radio.</li>
+				<li>Yo mama is so stupid that she thinks Christmas Wrap is Snoop Dogg's holiday album.</li>
+				<li>Yo mama is so stupid that she thinks deadbeat is a type of music.</li>
+				<li>Yo mama is so stupid that she thinks Fleetwood Mac is a new hamburger at McDonalds!</li>
+				<li>Yo mama is so stupid that she thinks fruit punch is a gay boxer.</li>
+				<li>Yo mama is so stupid that she thinks Johnny Cash is a pay toilet!</li>
+				<li>Yo mama is so stupid that she thinks sexual battery is something in a dildo.</li>
+				<li>Yo mama is so stupid that she thinks socialism means partying!</li>
+				<li>Yo mama is so stupid that she thinks sub-prime is a way to cut steak.</li>
+				<li>Yo mama is so stupid that she thinks Taco Bell is a Mexican Phone Company.</li>
+				<li>Yo mama is so stupid that she thinks Tiger Woods is a forest in India.</li>
+				<li>Yo mama is so stupid that she thinks Tiger Woods is a forest.</li>
+				<li>Yo mama is so stupid that she though Jar-Jar came with Pickles-Pickles.</li>
+				<li>Yo mama is so stupid that she thought a lawsuit was something you wear to court.</li>
+				<li>Yo mama is so stupid that she thought brownie points were coupons for a bake sale.</li>
+				<li>Yo mama is so stupid that she thought Delta Airlines was a sorority.</li>
+				<li>Yo mama is so stupid that she thought Dunkin' Donuts was a basketball team!</li>
+				<li>Yo mama is so stupid that she thought Grape Nuts was an STD.</li>
+				<li>Yo mama is so stupid that she thought menopause was a button on the VCR.</li>
+				<li>Yo mama is so stupid that she thought meow mix was a record for cats.</li>
+				<li>Yo mama is so stupid that she thought Mick Jagger was a breakfast sandwich!</li>
+				<li>Yo mama is so stupid that she thought she needed a token to get on Soul Train.</li>
+				<li>Yo mama is so stupid that she thought St. Ides was a Catholic church.</li>
+				<li>Yo mama is so stupid that she thought Tupac Shakur was a Jewish holiday.</li>
+				<li>Yo mama is so stupid that she threw a rock the ground and missed.</li>
+				<li>Yo mama is so stupid that she told everyone that she was "illegitimate" because she couldn't read.</li>
+				<li>Yo mama is so stupid that she took a ruler to bed to see how long she slept.</li>
+				<li>Yo mama is so stupid that she took a spoon to the superbowl.</li>
+				<li>Yo mama is so stupid that she took a umbrella to see Purple Rain.</li>
+				<li>Yo mama is so stupid that she took lessons for a player piano.</li>
+				<li>Yo mama is so stupid that she took the Pepsi challenge and chose Dr. Pepper.</li>
+				<li>Yo mama is so stupid that she tried to commit suicide by jumping out of the basement window.</li>
+				<li>Yo mama is so stupid that she tried to drop acid but the car battery fell on her foot.</li>
+				<li>Yo mama is so stupid that she tried to drown a fish.</li>
+				<li>Yo mama is so stupid that she tries to email people by putting envelopes into her computer's disk drive.</li>
+				<li>Yo mama is so stupid that she tries to insult you with yo mama jokes.</li>
+				<li>Yo mama is so stupid that she tripped over a cordless phone!</li>
+				<li>Yo mama is so stupid that she uses Old Spice for cooking.</li>
+				<li>Yo mama is so stupid that she was born on Independence Day and can't remember her birthday.</li>
+				<li>Yo mama is so stupid that she was on the corner with a sign that said "Will eat for food."</li>
+				<li>Yo mama is so stupid that she went to the dentist to get a bluetooth.</li>
+				<li>Yo mama is so stupid that she went to the store to buy a color TV and asked what colors they had.</li>
+				<li>Yo mama is so stupid that she wiped her ass before she took a shit.</li>
+				<li>Yo mama is so stupid that she wouldn't know up from down if she had three guesses.</li>
+				<li>Yo mama is so stupid that the first time she used a vibrator, she cracked her two front teeth.</li>
+				<li>Yo mama is so stupid that when asked on an application, "Sex?", she marked, "M, F, and wrote sometimes Wednesday too."</li>
+				<li>Yo mama is so stupid that when Cassandra says "Moisturize!", she begins to sweat.</li>
+				<li>Yo mama is so stupid that when her husband lost his marbles she ran to the store and bought him new ones.</li>
+				<li>Yo mama is so stupid that when I asked her about X-Men she said "Sure, there's Bobby my first baby daddy, Roger the guy I see on Thursdays..."</li>
+				<li>Yo mama is so stupid that when I asked her if she wanted to play one on one, she said "Ok, but what's the teams?"</li>
+				<li>Yo mama is so stupid that when I was drowning and yelled for a life saver, she said "Cherry or Grape?"</li>
+				<li>Yo mama is so stupid that when she asked me what kinda jeans I wore, I said Guess and she said "Ummm... Levis?"</li>
+				<li>Yo mama is so stupid that when she broke her VCR, she bought a video tape on how to fix your VCR.</li>
+				<li>Yo mama is so stupid that when she heard 90% of all crimes occur around the home, she moved.</li>
+				<li>Yo mama is so stupid that when she heard her neighbour was spanking the monkey, she called the humane society.</li>
+				<li>Yo mama is so stupid that when she locked her keys in the car, it took her all day to get Yo family out.</li>
+				<li>Yo mama is so stupid that when she pulled into the drive-thru at McDonald's, she drove through the window.</li>
+				<li>Yo mama is so stupid that when she read on her job application to not write below the dotted line she put "OK".</li>
+				<li>Yo mama is so stupid that when she saw a "Wrong Way" sign in her rearview mirror, she turned around.</li>
+				<li>Yo mama is so stupid that when she saw the "Under 17 not admitted" sign at a movie theatre, she went home and got 16 friends.</li>
+				<li>Yo mama is so stupid that when she took an IQ test, the results came out negative.</li>
+				<li>Yo mama is so stupid that when she took you to the airport and a sign said "Airport Left," she turned around and went home.</li>
+				<li>Yo mama is so stupid that when she went for a blood test, she asked for time to study.</li>
+				<li>Yo mama is so stupid that when she went to take the 44 bus, she took the 22 twice instead.</li>
+				<li>Yo mama is so stupid that when she worked at McDonald's and someone ordered small fries, she said "Hey Boss, all the small one's are gone."</li>
+				<li>Yo mama is so stupid that when the borg had to choose between assimilating her and a tree, they chose the tree.</li>
+				<li>Yo mama is so stupid that when the computer said "Press any key to continue", she couldn't find the 'Any' key.</li>
+				<li>Yo mama is so stupid that when the judge said "Order in the court," she said "I'll have a hamburger and a Coke."</li>
+				<li>Yo mama is so stupid that when they said they were playing craps she went and got toilet paper.</li>
+				<li>Yo mama is so stupid that when your dad said it was chilly outside, she ran out the door with a spoon.</li>
+				<li>Yo mama is so stupid that whenever someone rings the doorbell, she checks the microwave.</li>
+				<li>Yo mama is so stupid that you have to dig for her IQ!</li>
+				<li>Yo mama is so stupid the Borg wouldn't assimilate her!</li>
+				<li>Yo mama is so stupid, she drowned in a pensieve</li>
+				<li>Yo mama is so stupid, she thinks Sirius Black is a hip hop station on satellite radio.</li>
+				<li>Yo mama is so stupid, she thinks the G8 is a Value Meal at McDonald's.</li>
+				<li>Yo mama is so stupid, she went to the aquarium to buy a Blu-Ray.</li>
+				<li>Yo mama is so stupid, that she thought Moby Dick was a sexually transmitted disease.</li>
+				<li>Yo mama is so such a ho that she slept with me... therefore, I AM YOUR FATHER!</li>
+				<li>Yo mama is so tall that if she did a back-flip she'd kick Jesus in the mouth.</li>
+				<li>Yo mama is so tall that she tripped in Michigan and bumped her head in Florida.</li>
+				<li>Yo mama is so tall that she tripped over a rock and hit her head on the moon.</li>
+				<li>Yo mama is so tall, she can see her house from anywhere.</li>
+				<li>Yo mama is so tall, she did a push-up and burned her back on the sun.</li>
+				<li>Yo mama is so tall, she has to take out the driver's seat of her car and sit in the back to operate the vehicle.</li>
+				<li>Yo mama is so tall, she makes Shaquille O'Neal look like Gary Coleman.</li>
+				<li>Yo mama is so tall, she uses two 100-foot ladders as crutches.</li>
+				<li>Yo mama is so ugly even a Ferengi would dress her in clothes.</li>
+				<li>Yo mama is so ugly even Data would need special eye googles to look at her.</li>
+				<li>Yo mama is so ugly her Kazon hairdo is an improvement!</li>
+				<li>Yo mama is so ugly she did the truly impossible: she made Captain James T Kirk's penis go limp.</li>
+				<li>Yo mama is so ugly she scares the Dementors away.</li>
+				<li>Yo mama is so ugly she turned the Basilisk to stone.</li>
+				<li>Yo mama is so ugly that a sculpture of her face is used when torturing prisoners at Guantanamo Bay.</li>
+				<li>Yo mama is so ugly that as a baby they had to use the Confundus Charm so the family would play with her.</li>
+				<li>Yo mama is so ugly that Dalek's don't actually say 'Exterminate' when they see her, because they figure somebody else already got there first!</li>
+				<li>Yo mama is so ugly that Dr. Evazan looks like a male supermodel next to her.</li>
+				<li>Yo mama is so ugly that even Bill Clinton wouldn't sleep with her.</li>
+				<li>Yo mama is so ugly that even Rice Krispies won't talk to her!</li>
+				<li>Yo mama is so ugly that even Voldemort won't say her name.</li>
+				<li>Yo mama is so ugly that government intelligence agencies have to pixelize her face when spying on her.</li>
+				<li>Yo mama is so ugly that her birth certificate contained an apology letter from the condom factory.</li>
+				<li>Yo mama is so ugly that her face is blurred on her driver's license.</li>
+				<li>Yo mama is so ugly that her mom had to be drunk to breast feed her.</li>
+				<li>Yo mama is so ugly that her pillow cries at night.</li>
+				<li>Yo mama is so ugly that her shadow ran away from her.</li>
+				<li>Yo mama is so ugly that I took her to a haunted house and she came out with a job application.</li>
+				<li>Yo mama is so ugly that I took her to the zoo, guy at the door said "Thanks for bringing her back."</li>
+				<li>Yo mama is so ugly that if she was a scarecrow, the corn would run away.</li>
+				<li>Yo mama is so ugly that it looks like she's been bobbing for french fries.</li>
+				<li>Yo mama is so ugly that it looks like someone did the stanky leg dance on her face.</li>
+				<li>Yo mama is so ugly that just after she was born, her mother said "What a treasure!" and her father said "Yes, let's go bury it."</li>
+				<li>Yo mama is so ugly that neither Jacob nor Edward want her on their team.</li>
+				<li>Yo mama is so ugly that people at the circus pay money not to see her.</li>
+				<li>Yo mama is so ugly that people go as her for Halloween.</li>
+				<li>Yo mama is so ugly that people hang her picture in their cars so their radios don't get stolen.</li>
+				<li>Yo mama is so ugly that Santa pays an elf to drop off her gifts at Christmas.</li>
+				<li>Yo mama is so ugly that she can look up a camel's butt and scare the hump off of it.</li>
+				<li>Yo mama is so ugly that she climbed the ugly ladder and didn't miss a step.</li>
+				<li>Yo mama is so ugly that she could be the poster child for birth control.</li>
+				<li>Yo mama is so ugly that she could make a freight train take a dirt road.</li>
+				<li>Yo mama is so ugly that she could scare the flies off a shit wagon.</li>
+				<li>Yo mama is so ugly that she didn't get hit with the ugly stick, she got hit by the whole damn tree.</li>
+				<li>Yo mama is so ugly that she gets 364 extra days to dress up for Halloween!</li>
+				<li>Yo mama is so ugly that she gives Freddy Kreuger nightmares.</li>
+				<li>Yo mama is so ugly that she has 7 years bad luck just trying to look at herself in the mirror.</li>
+				<li>Yo mama is so ugly that she looked out the window and got arrested for mooning.</li>
+				<li>Yo mama is so ugly that she looks like she's been in a dryer filled with rocks.</li>
+				<li>Yo mama is so ugly that she lost a beauty contest to Mountain Troll.</li>
+				<li>Yo mama is so ugly that she made an onion cry!</li>
+				<li>Yo mama is so ugly that she made Barack Obama lose hope!</li>
+				<li>Yo mama is so ugly that she made doctor McCoy say "Damnit Jim, I'm a doctor, not a Zoologist!"</li>
+				<li>Yo mama is so ugly that she made Loz cry.</li>
+				<li>Yo mama is so ugly that she made Spike Spiegel choke on his cigarette</li>
+				<li>Yo mama is so ugly that she makes blind children cry.</li>
+				<li>Yo mama is so ugly that she makes Orochimaru look beautiful.</li>
+				<li>Yo mama is so ugly that she makes Sailor Bubba feel dirty.</li>
+				<li>Yo mama is so ugly that she practices birth control by leaving the lights on.</li>
+				<li>Yo mama is so ugly that she put the Boogie Man out of business!</li>
+				<li>Yo mama is so ugly that she scared the crap out of the toilet.</li>
+				<li>Yo mama is so ugly that she scares the roaches away.</li>
+				<li>Yo mama is so ugly that she threw a boomerang and it wouldn't even come back.</li>
+				<li>Yo mama is so ugly that she tried to take a bath and the water jumped out!</li>
+				<li>Yo mama is so ugly that she turned Medusa to stone!</li>
+				<li>Yo mama is so ugly that she'd scare the monster out of Loch Ness.</li>
+				<li>Yo mama is so ugly that she's like a Death Note. Get someone to look at her, and they'll die!</li>
+				<li>Yo mama is so ugly that she's never seen herself 'cause the mirrors keep breaking.</li>
+				<li>Yo mama is so ugly that she's probably a Shi'ido Clawdite that stays in her regular form all the time.</li>
+				<li>Yo mama is so ugly that that when she sits in the sand on the beach, cats try to bury her.</li>
+				<li>Yo mama is so ugly that that your father takes her to work with him so that he doesn't have to kiss her goodbye.</li>
+				<li>Yo mama is so ugly that the Dementor's Kiss was swapped out for a hearty handshake and a promise to give her a call sometime.</li>
+				<li>Yo mama is so ugly that the FCC requires her face to be blurred when she's on TV, because of decency rules.</li>
+				<li>Yo mama is so ugly that the government moved Halloween to her birthday!</li>
+				<li>Yo mama is so ugly that the last time I saw something that looked like her, I pinned a tail on it.</li>
+				<li>Yo mama is so ugly that the term 'bantha poodoo' wasn't used metaphorically with reference to her.</li>
+				<li>Yo mama is so ugly that the whomping willow saw her and died.</li>
+				<li>Yo mama is so ugly that they didn't give her a costume when she auditioned for Star Wars.</li>
+				<li>Yo mama is so ugly that they pay her to put her clothes on in strip joints</li>
+				<li>Yo mama is so ugly that they push her face into dough to make gorilla cookies.</li>
+				<li>Yo mama is so ugly that Voldemort took one look at her and killed HIMSELF!"</li>
+				<li>Yo mama is so ugly that we put her in the kennel when we go on vacation.</li>
+				<li>Yo mama is so ugly that when Captain Jack Harkness saw her, he actually died.</li>
+				<li>Yo mama is so ugly that when I last saw a mouth like hers, it had a hook in it.</li>
+				<li>Yo mama is so ugly that when Kakashi looked directly at her, he lost an eye.</li>
+				<li>Yo mama is so ugly that when Nozomu Itoshiki saw her, he didn't even bother with his "ZETSUBOUSHITA!" speech - he skipped straight to hanging himself.</li>
+				<li>Yo mama is so ugly that when she asked Crabbe to take her to the Yule Ball, he decided to go with Goyle instead!</li>
+				<li>Yo mama is so ugly that when she drove past area 51, she was thought to be extraterrestrial life. They took her away never to be seen again.</li>
+				<li>Yo mama is so ugly that when she goes to the therapist, he makes her lie on the couch face down.</li>
+				<li>Yo mama is so ugly that when she joined an ugly contest, they said "Sorry, no professionals."</li>
+				<li>Yo mama is so ugly that when she looks in the mirror it says "viewer discretion is advised."</li>
+				<li>Yo mama is so ugly that when she looks in the mirror, the reflection looks back and shakes its head.</li>
+				<li>Yo mama is so ugly that when she looks into the Tardis, the Tardis doesn't look into her.</li>
+				<li>Yo mama is so ugly that when she moved into the projects, all her neighbors chipped in for curtains.</li>
+				<li>Yo mama is so ugly that when she plays Mortal Kombat, Scorpion tells her to "Stay Over There!"</li>
+				<li>Yo mama is so ugly that when she uploaded a photo of herself to a computer, it was rejected by the anti-virus software.</li>
+				<li>Yo mama is so ugly that when she walked into Gringotts Wizarding Bank, they gave her a job application.</li>
+				<li>Yo mama is so ugly that when she walked out of her house, the neighbours called animal control.</li>
+				<li>Yo mama is so ugly that when she walks down the street in September, people say "Wow, is it Halloween already?"</li>
+				<li>Yo mama is so ugly that when she walks in the kitchen, the rats jump on the table and start screaming.</li>
+				<li>Yo mama is so ugly that when she walks into a bank, they turn off the surveillence cameras.</li>
+				<li>Yo mama is so ugly that when she was born she was put in an incubator with tinted windows.</li>
+				<li>Yo mama is so ugly that when she was born, the doctor slapped her AND her parents!</li>
+				<li>Yo mama is so ugly that when she went to a beautician it took 12 hours... to get a quote!</li>
+				<li>Yo mama is so ugly that when she went to Taco Bell everyone ran for the border.</li>
+				<li>Yo mama is so ugly that when the bassalisk snuck up on her and saw her face, HE dropped dead.</li>
+				<li>Yo mama is so ugly that when the Daleks Exterminate her, it's not for domination.</li>
+				<li>Yo mama is so ugly that Wuher said 'We don't serve your kind here'.</li>
+				<li>Yo mama is so ugly that you could put lipstick on a pig and it would look ten times better than her!</li>
+				<li>Yo mama is so ugly that you have to tie a steak around her neck so the dog will play with her!</li>
+				<li>Yo mama is so ugly that... well... look at you!</li>
+				<li>Yo mama is so ugly, even a dementor wouldn't kiss her!</li>
+				<li>Yo mama is so ugly, even Tamaki wouldn't hit on her.</li>
+				<li>Yo mama is so ugly, everybody calls her "She-Who-Must-Not-Be-Naked"</li>
+				<li>Yo mama is so ugly, Jiraiya saw her and turned gay!</li>
+				<li>Yo mama is so ugly, Saya thought she was a Chiropteran.</li>
+				<li>Yo mama is so ugly, she can't even get tentacle raped.</li>
+				<li>Yo mama is so Ugly, she got turned down for "Girls Gone Wilding"</li>
+				<li>Yo mama is so ugly, she thought that Hogwarts were the growth on her thigh.</li>
+				<li>Yo mama is so ugly, she's the real reason sasuke left the village.</li>
+				<li>Yo mama is so ugly, winter turned around and left!</li>
+				<li>Yo mama is so weak-minded that I got her to lead me to Jabba without using a jedi mind trick!</li>
+				<li>Yo mama is twice the man you are.</li>
+				<li>Yo mama likes to applaud, 'cause she's got clap</li>
+				<li>Yo mama smells so bad that the doctor diagnosed her with breath cancer.</li>
+				<li>Yo mama sucks so much dick her butt chin turned into a nut chin!</li>
+				<li>Yo mama was such an ugly baby that her parents had to feed her with a slingshot.</li>
+				<li>Yo mama's a convenient proof that the universe is still expanding exponentially.</li>
+				<li>Yo mama's arms are so short that she has to tilt her head to scratch her ear.</li>
+				<li>Yo mama's been on welfare so long that her picture is on food stamps.</li>
+				<li>Yo mama's breath is so nasty that it chases away Miasma.</li>
+				<li>yo mama's breath is so stanky, she eats odour eaters.</li>
+				<li>Yo mama's breath is the secret ingredient in the Weasly's Butterscotch Barf-ies.</li>
+				<li>Yo mama's breath smells so bad that when she yawns her teeth duck out of the way.</li>
+				<li>Yo mama's cosplay is so bad that she got beat by a Narutard in the masquerade!</li>
+				<li>Yo mama's dumber than an augmented rat.</li>
+				<li>Yo mama's face is so wrinkled, that she has to screw her hat on.</li>
+				<li>Yo mama's feet are so big that her shoes need to have license plates on them!</li>
+				<li>Yo mama's got 1 leg longer than the other so they call her call her hip hop.</li>
+				<li>Yo mama's got a "wait" problem, she can't wait to eat.</li>
+				<li>Yo mama's got a 4 dollar weave and don't know when to leave.</li>
+				<li>Yo mama's got a leather wig with suede sideburns.</li>
+				<li>Yo mama's got a peanut butter wig with jelly sideburns.</li>
+				<li>Yo mama's got an eagle's nest wig.</li>
+				<li>Yo mama's got an eating disorder, she be eating dis order, dat order, she be eating all the damn orders!</li>
+				<li>Yo mama's got more chins than a Chinese phone book.</li>
+				<li>Yo mama's got more crust than a bucket of Kentucky Fried Chicken.</li>
+				<li>Yo mama's got more weave than a dog in traffic.</li>
+				<li>Yo mama's got no ears and was trying on sunglasses.</li>
+				<li>Yo mama's got one leg and people call her Ilene.</li>
+				<li>Yo mama's got so much dandruff, she needs to defrost it before she combs her hair.</li>
+				<li>Yo mama's got so much weave, when a fly goes by her hair swats at it.</li>
+				<li>Yo mama's gums are so black that she spits Yoo-hoo.</li>
+				<li>Yo mama's hair is so nappy that she has to take Tylenol just to comb it.</li>
+				<li>Yo mama's head is so small that she got her ear pierced and died.</li>
+				<li>Yo mama's head is so small that she uses a tea-bag as a pillow.</li>
+				<li>Yo mama's hips are so big that people set their drinks on them.</li>
+				<li>Yo mama's house is so dirty that roaches ride around on dune buggies!</li>
+				<li>Yo mama's house is so dirty that she has to wipe her feet before she goes outside.</li>
+				<li>Yo mama's like 7-Eleven - open all night, hot to go, and for 89 cents you can get a slurpy.</li>
+				<li>Yo mama's like a 5 foot tall basketball hoop, it ain't that hard to score.</li>
+				<li>Yo mama's like a birthday cake, everybody gets a piece.</li>
+				<li>Yo mama's like a bowling ball, she gets picked up, fingered, thrown down the gutter, and she still comes back for more.</li>
+				<li>Yo mama's like a brick, dirty, flat on both sides, and always getting laid by Mexicans.</li>
+				<li>Yo mama's like a bungee cord... 100 dollars for 30 seconds and if that rubber breaks, your ass is dead!</li>
+				<li>Yo mama's like a converging lens - she's wider in the middle than she is on either end.</li>
+				<li>Yo mama's like a dollar bill, she gets handled all across the country.</li>
+				<li>yo mama's like a hardware store. 25 cents a screw.</li>
+				<li>Yo mama's like a nickel, she ain't worth a dime.</li>
+				<li>Yo mama's like a parking garage, three bucks and you're in.</li>
+				<li>Yo mama's like a pool table, she likes balls in her pocket.</li>
+				<li>Yo mama's like a postage stamp, you lick her, stick her, then send her away.</li>
+				<li>Yo mama's like a race car driver - she burns a lot of rubbers.</li>
+				<li>Yo mama's like a railroad track, she gets laid all over the country.</li>
+				<li>Yo mama's like a Reese's Peanut Butter Cup, there's no wrong way to eat her.</li>
+				<li>Yo mama's like a refrigerator, everyone puts their meat in her.</li>
+				<li>Yo mama's like a screen door, after a couple of bangs she loosens up.</li>
+				<li>Yo mama's like a set of speakers - loud, ugly, lives in a box, and you can turn her up, down, on, and off.</li>
+				<li>Yo mama's like a Snickers bar, packed with nuts.</li>
+				<li>Yo mama's like a squirrel, she's always got some nuts in her mouth.</li>
+				<li>Yo mama's like a streetlamp, you can find her turned on at night on any street corner.</li>
+				<li>Yo mama's like a telephone booth, open to the public, costs a quarter, and guys go in and out all day.</li>
+				<li>Yo mama's like a tricycle, she's easy to ride.</li>
+				<li>Yo mama's like a vacuum cleaner - a real good suck.</li>
+				<li>Yo mama's like a vacuum cleaner... she sucks, blows, and then gets laid in the closet.</li>
+				<li>Yo mama's like an elevator, guys go up and down on her all day.</li>
+				<li>Yo mama's like an iPod, fun to touch!</li>
+				<li>Yo mama's like cake mix, 15 servings per package!</li>
+				<li>Yo mama's like lettuce, 25 cents a head.</li>
+				<li>Yo mama's like McDonalds... Billions and Billions served.</li>
+				<li>Yo mama's like mustard, she spreads easy.</li>
+				<li>Yo mama's like peanut butter: brown, creamy, and easy to spread.</li>
+				<li>Yo mama's like school at 3 o'clock... children keep coming out and nobody can remember all the fathers.</li>
+				<li>Yo mama's like the Bermuda Triangle, they both swallow a lot of seamen.</li>
+				<li>Yo mama's like the Panama Canal, vessels full of seamen pass through her everyday.</li>
+				<li>Yo mama's like the Pillsbury dough boy - everybody pokes her.</li>
+				<li>Yo mama's like Wal-Mart... She's got different discounts everyday.</li>
+				<li>Yo mama's lips are so big that Chapstick had to invent a spray.</li>
+				<li>Yo mama's mouth is so big that she speaks in surround sound.</li>
+				<li>Yo mama's nosehairs are so long that they make Bobobo jealous!</li>
+				<li>Yo mama's nostrils are so huge she makes Patrick Ewing jealous.</li>
+				<li>Yo mama's only got one finger and runs around stealing key rings.</li>
+				<li>Yo mama's such a drunk, that her sonic screwdriver is made of vodka and orange juice.</li>
+				<li>Yo mama's such a ho that "who's your daddy?" is a multiple-choice question.</li>
+				<li>Yo mama's such a ho that even the noble gases are attracted to her.</li>
+				<li>Yo mama's such a ho that she lets ANYONE enter her "chamber of secrets".</li>
+				<li>Yo mama's such a hoe that the nickname for her vagina (Bad Wolf) is scattered across time and space.</li>
+				<li>Yo mama's such a noisy hoe, her nickname is the sonic screwdriver!</li>
+				<li>Yo mama's such a tramp that she's given more rides than the Hogwarts Express!</li>
+				<li>Yo mama's such a tramp that she's like a quidditch broomstick - everyone gets a ride.</li>
+				<li>Yo mama's teeth are so rotten that when she smiles it looks like she has dice in her mouth.</li>
+				<li>Yo mama's teeth are so yellow that she spits butter!</li>
+				<li>Yo mama's teeth are so yellow that traffic slows down when she smiles!</li>
+				<li>Yo mama's teeth are so yellow that when she smiles everyone sings "We're Walking on Sunshine."</li>
+				<li>Yo mama's teeth are so yellow, when she smiles it looks like a Kraft Singles pack.</li>
+				<li>Yo mama's the only mute prostitute in Hogsmeade. They call her "dumb-le-whore"!</li>
+				<li>Yo mama's the reason that Dumbledore turned gay.</li>
+				<li>Yo mama's twice the man you are.</li>
+				<li>Yo mama... 'nuff said.</li>
+				<li>Yo mamags so big that she has a gravitational pull equal to that of the sun.</li>
+				<li>Yo mamags so old, when she breast feeds, people mistake her for a fog machine.</li>
+				<li>You suck... yo mama does too, but she charges.</li>
+			</random>		
+		</template>
+	</category>
+	
+	<category>
+		<pattern>INSULT *</pattern>
+		<template>
+			<srai>INSULT</srai>
+		</template>
+	</category>	
+</aiml>

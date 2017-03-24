@@ -214,6 +214,48 @@
 	</category>	
 
 	<category>
+		<pattern>ROLL</pattern>
+		<template>
+			<random>
+				<li>:dice1:</li>
+				<li>:dice2:</li>
+				<li>:dice3:</li>
+				<li>:dice4:</li>
+				<li>:dice5:</li>
+				<li>:dice6:</li>
+			</random>
+		</template>
+	</category>	
+
+	<category>
+		<pattern>9BALL</pattern>
+		<template>
+			<random>
+				<li>❾: It is certain</li>
+				<li>❾: It is decidedly so</li>
+				<li>❾: Without a doubt</li>
+				<li>❾: Yes definitely</li>
+				<li>❾: You may rely on it</li>
+				<li>❾: As I see it, yes</li>
+				<li>❾: Most likely</li>
+				<li>❾: Outlook good</li>
+				<li>❾: Yes</li>
+				<li>❾: Signs point to yes</li>
+				<li>❾: Reply hazy try again</li>
+				<li>❾: Ask again later</li>
+				<li>❾: Better not tell you now</li>
+				<li>❾: Cannot predict now</li>
+				<li>❾: Concentrate and ask again</li>
+				<li>❾: Don't count on it</li>
+				<li>❾: My reply is no</li>
+				<li>❾: My sources say no</li>
+				<li>❾: Outlook not so good</li>
+				<li>❾: Very doubtful</li>
+			</random>
+		</template>
+	</category>
+	
+	<category>
 		<pattern>FLIP</pattern>
 		<template>Flip what :sgsmile:</template>
 	</category>	
