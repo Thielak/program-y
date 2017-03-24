@@ -4,16 +4,6 @@
 		<pattern>JOKE</pattern>
 		<template>
 			<random>
-				<li><srai>DADJOKE</srai></li>
-				<li><srai>DADPUN</srai></li>
-			</random>
-		</template>
-	</category>
-
-	<category>
-		<pattern>DADJOKE</pattern>
-		<template>
-			<random>
 				<li>What did the mountain climber name his son? Cliff.</li>
 				<li>Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads “Small medium at large.”</li>
 				<li>“Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, ‘No, just leave it in the carton!’”</li>
@@ -50,7 +40,6 @@
 				<li>A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”</li>
 				<li>“Doctor, I’ve broken my arm in several places” Doctor “Well don’t go to those places.”</li>
 				<li>“Why did the Clydesdale give the pony a glass of water? Because he was a little horse!”</li>
-				<li>There’s a new type of broom out, it’s sweeping the nation.</li>
 				<li>Relationships are a lot like algebra. Have you ever looked at your X and wondered Y?</li>
 				<li>They laughed when I said I wanted to be a comedian – they’re not laughing now.</li>
 				<li>A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.</li>
@@ -59,17 +48,12 @@
 				<li>Did you hear about the kidnapping at school? It’s fine, he woke up.</li>
 				<li>I went to the zoo the other day, there was only one dog in it. It was a shitzu.</li>
 				<li>What did the daddy tomato say to the baby tomato? Catch up!</li>
-				<li>What did baby corn say to mama corn? Where’s popcorn?</li>
-				<li>What do you call a cow with no legs? Ground beef.</li>
 				<li>What did the Buffalo say to his little boy when he dropped him off at school? Bison.</li>
 				<li>Why did the scarecrow win an award? Because he was outstanding in his field.</li>
 				<li>Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!</li>
-				<li>What’s brown and sounds like a bell? Dung!</li>
-				<li>Where does batman go to the bathroom? The batroom.</li>
 				<li>What’s the difference between an African elephant and an Indian elephant? About 5000 miles</li>
 				<li>What do you call Jay-Z when he’s sleeping? Jay Zzzzzzzzzz.</li>
 				<li>A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”</li>
-				<li>I knew i shouldn’t have ate that seafood. Because now i’m feeling a little... Eel</li>
 				<li>What did the late tomato say to the early tomato? I’ll ketch up</li>
 				<li>Why are skeletons so calm? Because nothing gets under their skin.</li>
 				<li>Why don’t skeletons ever go trick or treating? Because they have nobody to go with.</li>
@@ -80,14 +64,7 @@
 				<li>Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.</li>
 				<li>My wife and I were happy for twenty years. Then we met.</li>
 				<li>I used to think I was indecisive, but now I'm not too sure.</li>
-			</random>
-		</template>
-	</category>
-
-	<category>
-		<pattern>DADPUN</pattern> <!-- from http://onelinefun.com/puns/ -->
-		<template>
-			<random>
+				<li>If i had a dollar for every girl that found me unattractive, they would eventually find me attractive.</li>
 				<li>It's hard to explain puns to kleptomaniacs because they always take things literally.</li>
 				<li>I can't believe I got fired from the calendar factory. All I did was take a day off.</li>
 				<li>Did you hear about the guy who got hit in the head with a can of soda? He was lucky it was a soft drink.</li>
@@ -135,12 +112,87 @@
 				<li>What cheese can never be yours? Nacho cheese.</li>
 				<li>“What time did the man go to the dentist? Tooth hurt-y.”</li>
 				<li>What kind of magic do cows believe in? Moodoo.</li>
+				<li>What did baby corn say to mama corn? Where’s popcorn?</li>
+				<li>What’s brown and sounds like a bell? Dung!</li>
+				<li>There’s a new type of broom out, it’s sweeping the nation.</li>
+				<li>I knew i shouldn’t have ate that seafood. Because now i’m feeling a little... Eel</li>
+				<li>When wearing a bikini, women reveal 90% of their body... men are so polite they only look at the covered parts.</li>
+				<li>You know you're ugly when it comes to a group picture and they hand you the camera.</li>
+				<li>I want to die peacefully in my sleep, like my grandfather.. Not screaming and yelling like the passengers in his car.</li>
+				<li>Life is like toilet paper, you're either on a roll or taking shit from some asshole.</li>
+				<li>Team work is important; it helps to put the blame on someone else.</li>
+				<li>Before I criticize a man, I like to walk a mile in his shoes. That way, when I do criticize him, I'm a mile away and I have his shoes.</li>
+				<li>What do you call a cow with no legs? Ground beef.</li>
+				<li>Strong people don't put others down. They lift them up and slam them on the ground for maximum damage.</li>
+				<li>Did you know that dolphins are so smart that within a few weeks of captivity, they can train people to stand on the very edge of the pool and throw them fish?</li>
+				<li>Feeling pretty proud of myself. The Sesame Street puzzle I bought said 3-5 years, but I finished it in 18 months.</li>
+				<li>Apparently I snore so loudly that it scares everyone in the car I'm driving.</li>
+				<li>Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.</li>
+				<li>Wife: "I look fat. Can you give me a compliment?" Husband: "You have perfect eyesight."</li>
 			</random>
 		</template>
 	</category>
-
+	
+	<category>
+		<pattern>INSULT *</pattern>
+		<template><star/>,<lowercase><srai>INSULT</srai></lowercase></template>
+	</category>	
+	
 	<category>
 		<pattern>INSULT</pattern>	<!-- from https://github.com/rdegges/yomomma-api/ -->
+		<template>
+			<random>
+				<li>Is your ass jealous of the amount of shit that just came out of your mouth?</li>
+				<li>Two wrongs don't make a right, take your parents as an example.</li>
+				<li>I'd like to see things from your point of view but I can't seem to get my head that far up my ass.</li>
+				<li>If I wanted to kill myself I'd climb your ego and jump to your IQ.</li>
+				<li>Your family tree must be a cactus because everybody on it is a prick.</li>
+				<li>You're so ugly, when your mom dropped you off at school she got a fine for littering.</li>
+				<li>It's better to let someone think you are an Idiot than to open your mouth and prove it.</li>
+				<li>The only way you'll ever get laid is if you crawl up a chicken's ass and wait.</li>
+				<li>Your birth certificate is an apology letter from the condom factory.</li>
+				<li>If laughter is the best medicine, your face must be curing the world.</li>
+				<li>You must have been born on a highway because that's where most accidents happen.</li>
+				<li>If you really want to know about mistakes, you should ask your parents.</li>
+				<li>I wasn't born with enough middle fingers to let you know how I feel about you.</li>
+				<li>What language are you speaking? Cause it sounds like bullshit.</li>
+				<li>It looks like your face caught on fire and someone tried to put it out with a hammer.</li>
+				<li>Roses are red, violets are blue, God made me pretty, what happened to you?</li>
+				<li>I'm jealous of all the people that haven't met you!</li>
+				<li>You're the reason the gene pool needs a lifeguard.</li>
+				<li>If ignorance is bliss, you must be the happiest person on earth.</li>
+				<li>Don't you love nature, despite what it did to you?</li>
+				<li>If I had a face like yours, I'd sue my parents.</li>
+				<li>You do realize makeup isn't going to fix your stupidity?</li>
+				<li>I don't think you are stupid. You just have a bad luck when thinking.</li>
+				<li>There's only one problem with your face, I can see it.</li>
+				<li>I don't know what makes you so stupid, but it really works.</li>
+				<li>You are proof that evolution CAN go in reverse.</li>
+				<li>I would ask you how old you are but I know you can't count that high.</li>
+				<li>Looking at you, I understand why some animals eat their young.</li>
+				<li>I would love to insult you... but that would be beyond the level of your intelligence.</li>
+				<li>Keep talking, someday you'll say something intelligent!</li>
+				<li>How many times do I have to flush before you go away?</li>
+				<li>If you wanna know which sexual position produces the ugliest children just ask your mother.</li>
+				<li>You are so ugly that when you look in the mirror your reflection walks away.</li>
+				<li>I'm glad to see you're not letting your education get in the way of your ignorance.</li>
+				<li>Shock me, say something intelligent.</li>
+				<li>The janitor said he took out the trash last night, what are you still doing here?</li>
+				<li>As an outsider, what do you think of the human race?</li>
+				<li>You're about as useless as an asshole with tastebuds.</li>
+				<li>You are not as bad as people say, you are much, much worse.</li>
+				<li>We all sprang from apes, but you didn't spring far enough.</li>
+				<li>If I had a dollar for every time you said something smart, I'd be broke.</li>
+				<li>You look like a "before" picture.</li>
+				<li>You've got two brain cells: one is in a wheelchair and the other one is pushing.</li>
+				<li>You have the perfect face for radio.</li>
+				<li>Are your parents siblings?</li>
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern>YOMAMA</pattern>	<!-- from https://github.com/rdegges/yomomma-api/ -->
 		<template>
 			<random>
 				<li>It took yo mama 10 tries to get her drivers license - she couldn't get used to the front seat!</li>
@@ -1069,11 +1121,4 @@
 			</random>		
 		</template>
 	</category>
-	
-	<category>
-		<pattern>INSULT *</pattern>
-		<template>
-			<srai>INSULT</srai>
-		</template>
-	</category>	
 </aiml>
