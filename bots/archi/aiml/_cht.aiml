@@ -6,8 +6,9 @@
     WHAT IS DOTO          -Again, self-explanatory.
     SING A SONG FOR CHT   -Songs that describe CHT best. Still WIP.
     TODO                  -Stuff that can help people get on track with their life.
-    HOW TO WASTE TIME     -FOr those that somehow don't have a clear direction with their free time.
+    HOW TO WASTE TIME     -For those that somehow don't have a clear direction with their free time.
     SAVE CIRI             -Madu needs to do this.
+    2HUFAME               -"Famous" 2hu words.
   -->
   
   <category>
@@ -17,6 +18,7 @@
         <li>Chatter in 2hu gibs.</li>
         <li>Chat stalker, found in its natural habitat 2hu gibs.</li>
         <li>One noob in programming that makes stuff based on "templates".</li>
+        <li>A noob in programming that managed to crash a program with just one character.</li>
       </random>
     </template>
   </category>
@@ -60,9 +62,10 @@
     <template>
       <random>
         <li>Play games.</li>
-        <li>By reading this, you've successfully wasted time. Congrats.</li>
+        <li>Read useless stuff like this sentence to waste time.</li>
         <li>Sit around idly.</li>
         <li>If you aren't sure after sitting around idly, you're doing something wrong.</li>
+        <li>Wait idly for your favourite story to have a new release.</li>
       </random>
     </template>
   </category>
@@ -70,5 +73,21 @@
   <category>
     <pattern>SAVE CIRI</pattern>
     <template>Archi: save ciri</template>
+  </category>
+  
+  <category>
+    <pattern>2HUFAME</pattern>
+    <template>
+      <random>
+        <li>Archi: and remember you're on diet</li>
+        <li>wany1981: is doing chat message gib that popular now?</li>
+        <li>ArchiBoT: Sorry, I don't have an answer for that!</li>
+        <li>FakeNameOF: :3</li>
+        <li>Kaleith: :doubt:</li>
+        <li>CHT: Anyway, I would have stole the cht insult response but I already have one better bottu line.</li>
+        <li>Cjcomplex: Aww, I wanted to loot your pp ;_;.</li>
+        <li>Windu: :sgsmile: im also very busy irl</li>
+      </random>
+    </template>
   </category>
 </aiml>
