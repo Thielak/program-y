@@ -135,7 +135,7 @@
 	
 	<category>
 		<pattern>INSULT *</pattern>
-		<template><star/>,<lowercase><srai>INSULT</srai></lowercase></template>
+		<template><sentence><star/></sentence><lowercase><srai>INSULT</srai></lowercase></template>
 	</category>	
 	
 	<category>
