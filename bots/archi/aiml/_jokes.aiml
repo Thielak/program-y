@@ -138,9 +138,37 @@
 	
 	<category>
 		<pattern>INSULT *</pattern>
-		<template><sentence><star/><srai>INSULT</srai></sentence></template>
+		<template>
+			<sentence><star/><srai>INSULT</srai></sentence>
+		</template>
 	</category>	
 	
+	<category>
+		<pattern>INSULT ME</pattern>
+		<template>
+			<srai>INSULT</srai>
+		</template>
+	</category>	
+	
+	<category>
+		<pattern>INSULT YOURSELF</pattern>
+		<template>
+			<srai>INSULT BOT</srai>
+		</template>
+	</category>	
+	
+	<category>
+		<pattern>INSULT ARCHIBOT</pattern>
+		<template>
+			<srai>INSULT BOT</srai>
+		</template>
+	</category>	
+
+	<category>
+		<pattern>INSULT BOT</pattern>
+		<template>You think I'd insult myself? :sgsmile:</template>
+	</category>	
+
 	<category>
 		<pattern>INSULT</pattern>
 		<template>
@@ -151,7 +179,7 @@
 				<li>If I wanted to kill myself I'd climb your ego and jump to your IQ.</li>
 				<li>Your family tree must be a cactus because everybody on it is a prick.</li>
 				<li>You're so ugly, when your mom dropped you off at school she got a fine for littering.</li>
-				<li>It's better to let someone think you are an Idiot than to open your mouth and prove it.</li>
+				<li>It's better to let someone think you are an idiot than to open your mouth and prove it.</li>
 				<li>The only way you'll ever get laid is if you crawl up a chicken's ass and wait.</li>
 				<li>Your birth certificate is an apology letter from the condom factory.</li>
 				<li>If laughter is the best medicine, your face must be curing the world.</li>
@@ -192,11 +220,6 @@
 				<li>Are you always this stupid or is today a special occasion?</li>
 				<li>When you were born the doctor came out to the waiting room and said to your father "We're very sorry, we did everything we could but they pulled through".</li>
 				<li>You're so fat that a picture of you would fall off the wall.</li>
-				<li><srai>YOMAMA</srai></li>
-				<li><srai>YOMAMA</srai></li>
-				<li><srai>YOMAMA</srai></li>
-				<li><srai>YOMAMA</srai></li>
-				<li><srai>YOMAMA</srai></li>
 				<li><srai>YOMAMA</srai></li>
 				<li><srai>YOMAMA</srai></li>
 				<li><srai>YOMAMA</srai></li>
