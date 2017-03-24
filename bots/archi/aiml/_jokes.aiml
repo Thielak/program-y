@@ -120,7 +120,7 @@
 				<li>You know you're ugly when it comes to a group picture and they hand you the camera.</li>
 				<li>I want to die peacefully in my sleep, like my grandfather.. Not screaming and yelling like the passengers in his car.</li>
 				<li>Life is like toilet paper, you're either on a roll or taking shit from some asshole.</li>
-				<li>Team work is important; it helps to put the blame on someone else.</li>
+				<li>Team work is important, it helps to put the blame on someone else.</li>
 				<li>Before I criticize a man, I like to walk a mile in his shoes. That way, when I do criticize him, I'm a mile away and I have his shoes.</li>
 				<li>What do you call a cow with no legs? Ground beef.</li>
 				<li>Strong people don't put others down. They lift them up and slam them on the ground for maximum damage.</li>
@@ -142,7 +142,7 @@
 	</category>	
 	
 	<category>
-		<pattern>INSULT</pattern>	<!-- from https://github.com/rdegges/yomomma-api/ -->
+		<pattern>INSULT</pattern>
 		<template>
 			<random>
 				<li>Is your ass jealous of the amount of shit that comes out of your mouth?</li>
@@ -158,15 +158,13 @@
 				<li>You must have been born on a highway because that's where most accidents happen.</li>
 				<li>If you really want to know about mistakes, you should ask your parents.</li>
 				<li>I wasn't born with enough middle fingers to let you know how I feel about you.</li>
-				<li>What language are you speaking? Cause it sounds like bullshit.</li>
 				<li>It looks like your face caught on fire and someone tried to put it out with a hammer.</li>
-				<li>Roses are red, violets are blue, God made me pretty, what happened to you?</li>
-				<li>I'm jealous of all the people that haven't met you!</li>
+				<li>I'm jealous of all the people that haven't met you.</li>
 				<li>You're the reason the gene pool needs a lifeguard.</li>
 				<li>If ignorance is bliss, you must be the happiest person on earth.</li>
 				<li>Don't you love nature, despite what it did to you?</li>
 				<li>If I had a face like yours, I'd sue my parents.</li>
-				<li>You do realize makeup isn't going to fix your stupidity?</li>
+				<li>Do you realize makeup isn't going to fix your stupidity?</li>
 				<li>I don't think you are stupid. You just have a bad luck when thinking.</li>
 				<li>There's only one problem with your face, I can see it.</li>
 				<li>I don't know what makes you so stupid, but it really works.</li>
@@ -179,7 +177,7 @@
 				<li>If you wanna know which sexual position produces the ugliest children just ask your mother.</li>
 				<li>You are so ugly that when you look in the mirror your reflection walks away.</li>
 				<li>I'm glad to see you're not letting your education get in the way of your ignorance.</li>
-				<li>Shock me, say something intelligent.</li>
+				<li>Please shock me, say something intelligent.</li>
 				<li>The janitor said he took out the trash last night, what are you still doing here?</li>
 				<li>As an outsider, what do you think of the human race?</li>
 				<li>You're about as useless as an asshole with tastebuds.</li>
@@ -192,7 +190,7 @@
 				<li>Are your parents siblings?</li>
 				<li>Save your breath... You'll need it to blow up your date.</li>
 				<li>Are you always this stupid or is today a special occasion?</li>
-				<li>When you were born the doctor came out to the waiting room and said to your father "I'm very sorry, we did everything we could but he pulled through."</li>
+				<li>When you were born the doctor came out to the waiting room and said to your father "We're very sorry, we did everything we could but he pulled through".</li>
 			</random>
 		</template>
 	</category>
@@ -1032,8 +1030,6 @@
 				<li>Yo mama's a convenient proof that the universe is still expanding exponentially.</li>
 				<li>Yo mama's arms are so short that she has to tilt her head to scratch her ear.</li>
 				<li>Yo mama's been on welfare so long that her picture is on food stamps.</li>
-				<li>Yo mama's breath is so nasty that it chases away Miasma.</li>
-				<li>yo mama's breath is so stanky, she eats odour eaters.</li>
 				<li>Yo mama's breath is the secret ingredient in the Weasly's Butterscotch Barf-ies.</li>
 				<li>Yo mama's breath smells so bad that when she yawns her teeth duck out of the way.</li>
 				<li>Yo mama's cosplay is so bad that she got beat by a Narutard in the masquerade!</li>
@@ -1119,8 +1115,6 @@
 				<li>Yo mama's teeth are so yellow, when she smiles it looks like a Kraft Singles pack.</li>
 				<li>Yo mama's the only mute prostitute in Hogsmeade. They call her "dumb-le-whore"!</li>
 				<li>Yo mama's the reason that Dumbledore turned gay.</li>
-				<li>Yo mama's twice the man you are.</li>
-				<li>Yo mama... 'nuff said.</li>
 				<li>Yo mamags so big that she has a gravitational pull equal to that of the sun.</li>
 				<li>Yo mamags so old, when she breast feeds, people mistake her for a fog machine.</li>
 				<li>You suck... yo mama does too, but she charges.</li>
