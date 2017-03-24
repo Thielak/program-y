@@ -30,11 +30,9 @@
 				<li>What do you call an Argentinian with a rubber toe? Roberto</li>
 				<li>“What do you call a man with no nose and no body? Nobody nose.”</li>
 				<li>I cut my finger chopping cheese, but I think that I may have grater problems.</li>
-				<li>What do you call a fish with no eyes? A fsh.</li>
 				<li>“What do you call a man with no arms and no legs lying in front of your door? Matt.”</li>
 				<li>My cat was just sick on the carpet, I don’t think it’s feline well.</li>
 				<li>I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.</li>
-				<li>Without geometry life is pointless.</li>
 				<li>A termite walks into a bar and asks “Is the bar tender here?”</li>
 				<li>I gave all my dead batteries away today... Free of charge.</li>
 				<li>I am terrified of elevators. I’m going to start taking steps to avoid them.</li>
@@ -44,7 +42,6 @@
 				<li>I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.</li>
 				<li>Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.</li>
 				<li>What did daddy spider say to baby spider? You spend too much time on the web.</li>
-				<li>How much does a hipster weigh? An instagram.</li>
 				<li>What do you call a group of killer whales playing instruments? An Orca-stra.</li>
 				<li>Why was the big cat disqualified from the race? Because it was a cheetah.</li>
 				<li>Bicycles can’t stand on their own, they’re two tired.</li>
@@ -52,13 +49,10 @@
 				<li>“How do you make holy water? You boil the hell out of it.”</li>
 				<li>A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”</li>
 				<li>“Doctor, I’ve broken my arm in several places” Doctor “Well don’t go to those places.”</li>
-				<li>I’m on a whiskey diet. I’ve lost three days already.</li>
 				<li>“Why did the Clydesdale give the pony a glass of water? Because he was a little horse!”</li>
 				<li>There’s a new type of broom out, it’s sweeping the nation.</li>
-				<li>Atheism is a non-prophet organisation.</li>
-				<li>Slept like a log last night... woke up in the fireplace.</li>
+				<li>Relationships are a lot like algebra. Have you ever looked at your X and wondered Y?</li>
 				<li>They laughed when I said I wanted to be a comedian – they’re not laughing now.</li>
-				<li>What cheese can never be yours? Nacho cheese.</li>
 				<li>A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.</li>
 				<li>Last Christmas we bought a fake Christmas tree and the guy behind the counter said to my Dad,” Are you going to put it up yourself?” Dad replied, “Don’t be disgusting, I’m going to put it in the living room. “</li>
 				<li>I’m reading a book on the history of glue – can’t put it down.</li>
@@ -77,15 +71,15 @@
 				<li>A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”</li>
 				<li>I knew i shouldn’t have ate that seafood. Because now i’m feeling a little... Eel</li>
 				<li>What did the late tomato say to the early tomato? I’ll ketch up</li>
-				<li>What did the 0 say to the 8? Nice belt.</li>
 				<li>Why are skeletons so calm? Because nothing gets under their skin.</li>
 				<li>Why don’t skeletons ever go trick or treating? Because they have nobody to go with.</li>
 				<li>Why do scuba divers fall backwards into the water? Because if they fell forwards they’d still be in the boat.</li>
 				<li>Have you ever heard of a music group called Cellophane? They mostly wrap.</li>
-				<li>What kind of magic do cows believe in? MOODOO.</li>
 				<li>Why does Superman gets invited to dinners? Because he is a Supperhero.</li>
-				<li>“What time did the man go to the dentist? Tooth hurt-y.”</li>
-				<li>How do you know when you are going to drown in milk? When its past your eyes!</li>
+				<li>A recent study has found that women who carry a little extra weight live longer than the men who mention it.</li>
+				<li>Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.</li>
+				<li>My wife and I were happy for twenty years. Then we met.</li>
+				<li>I used to think I was indecisive, but now I'm not too sure.</li>
 			</random>
 		</template>
 	</category>
@@ -94,7 +88,7 @@
 		<pattern>DADPUN</pattern> <!-- from http://onelinefun.com/puns/ -->
 		<template>
 			<random>
-				<li>Don't spell part backwards. It's a trap.</li>
+				<li>It's hard to explain puns to kleptomaniacs because they always take things literally.</li>
 				<li>I can't believe I got fired from the calendar factory. All I did was take a day off.</li>
 				<li>Did you hear about the guy who got hit in the head with a can of soda? He was lucky it was a soft drink.</li>
 				<li>I'm reading a book about anti-gravity. It's impossible to put down.</li>
@@ -104,7 +98,7 @@
 				<li>Why was Cinderella thrown off the basketball team? She ran away from the ball.</li>
 				<li>A friend of mine tried to annoy me with bird puns, but I soon realized that toucan play at that game.</li>
 				<li>I have a few jokes about unemployed people but it doesn't matter. None of them work.</li>
-				<li>Thieves had broken into my house and stolen everything except my soap, shower gel, towels and deodorant. Dirty Bastards.</li>
+				<li>Thieves had broken into my house and stolen everything except my soap, shower gel, towels and deodorant. Dirty bastards.</li>
 				<li>When I get naked in the bathroom, the shower usually gets turned on.</li>
 				<li>I am on a seafood diet. Every time I see food, I eat it.</li>
 				<li>Why did the scientist install a knocker on his door? He wanted to win the No-bell prize!</li>
@@ -115,7 +109,7 @@
 				<li>Did you hear about the Italian chef with a terminal illness? He pastaway.</li>
 				<li>Why don't cannibals eat clowns? They taste funny.</li>
 				<li>How can you spot the blind guy at the nudist colony? It's not hard.</li>
-				<li>I was going to give him a nasty look, but he already had one.</li>
+				<li>How much does a hipster weigh? An instagram.</li>
 				<li>Atheism is a non-prophet organization.</li>
 				<li>What do you call Watson when Sherlock isn't around? Holmeless.</li>
 				<li>A hole was found in the wall of a nudist camp. The police are looking into it.</li>
@@ -123,48 +117,24 @@
 				<li>Claustrophobic people are more productive thinking out of the box.</li>
 				<li>What do sea monsters eat for lunch? Fish and ships.</li>
 				<li>Whats long and hard and has cum in it? A cucumber.</li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
+				<li>A donkey fell into a bowl of sugar. Now that's a sweet ass.</li>
+				<li>An opinion without 3.14159 is just an onion.</li>
+				<li>What do you have to do to have a party in space? You have to Planet.</li>
+				<li>What do ghosts serve for dessert? I Scream.</li>
+				<li>Where do you find a birthday present for a cat? In a cat-alogue!</li>
+				<li>Why did the snowman smile? Because the snowblower is coming.</li>
+				<li>I'm trying to finish writing a script for a porno movie, but there are just too many holes in the plot.</li>
+				<li>In democracy, it's your vote that counts. In feudalism, it's your count that votes.</li>
+				<li>What did Zelda tell Link when he couldn't open the door? TRIFORCE!</li>
+				<li>I threw an Asian man down a flight of stairs. It was Wong on so many levels.</li>
+				<li>What do squirrels give for Valentine's Day? Forget-me-nuts.</li>
+				<li>I would tell you a joke about my shoe but I think I shoedn't.</li>
+				<li>How do you know when you are going to drown in milk? When its past your eyes!</li>
+				<li>I used to think I was indecisive, but now I'm not too sure.</li>
+				<li>What do you call a fish with no eyes? A fsh.</li>
+				<li>What cheese can never be yours? Nacho cheese.</li>
+				<li>“What time did the man go to the dentist? Tooth hurt-y.”</li>
+				<li>What kind of magic do cows believe in? Moodoo.</li>
 			</random>
 		</template>
 	</category>
@@ -1099,4 +1069,11 @@
 			</random>		
 		</template>
 	</category>
+	
+	<category>
+		<pattern>INSULT *</pattern>
+		<template>
+			<srai>INSULT</srai>
+		</template>
+	</category>	
 </aiml>
