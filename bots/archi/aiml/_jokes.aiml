@@ -138,7 +138,7 @@
 	
 	<category>
 		<pattern>INSULT *</pattern>
-		<template><sentence><star/></sentence><lowercase><srai>INSULT</srai></lowercase></template>
+		<template><sentence><star/><srai>INSULT</srai></sentence></template>
 	</category>	
 	
 	<category>
@@ -190,7 +190,25 @@
 				<li>Are your parents siblings?</li>
 				<li>Save your breath... You'll need it to blow up your date.</li>
 				<li>Are you always this stupid or is today a special occasion?</li>
-				<li>When you were born the doctor came out to the waiting room and said to your father "We're very sorry, we did everything we could but he pulled through".</li>
+				<li>When you were born the doctor came out to the waiting room and said to your father "We're very sorry, we did everything we could but they pulled through".</li>
+				<li>You're so fat that a picture of you would fall off the wall.</li>
+				<li><srai>YOMAMA</srai></li>
+				<li><srai>YOMAMA</srai></li>
+				<li><srai>YOMAMA</srai></li>
+				<li><srai>YOMAMA</srai></li>
+				<li><srai>YOMAMA</srai></li>
+				<li><srai>YOMAMA</srai></li>
+				<li><srai>YOMAMA</srai></li>
+				<li><srai>YOMAMA</srai></li>
+				<li><srai>YOMAMA</srai></li>
+				<li><srai>YOMAMA</srai></li>
+				<li><srai>YOMAMA</srai></li>
+				<li><srai>YOMAMA</srai></li>
+				<li><srai>YOMAMA</srai></li>
+				<li><srai>YOMAMA</srai></li>
+				<li><srai>YOMAMA</srai></li>
+				<li><srai>YOMAMA</srai></li>
+				<li><srai>YOMAMA</srai></li>
 			</random>
 		</template>
 	</category>
@@ -251,26 +269,6 @@
 				<li>Yo mama is so bald that you can see what's on her mind.</li>
 				<li>Yo mama is so bald that you could draw a line down the middle of her head and it would look like my ass.</li>
 				<li>Yo mama is so big that doctors use scuba divers as nanobots to clean her arteries.</li>
-				<li>Yo mama is so dark that her ass looks like two tires.</li>
-				<li>Yo mama is so dark that her nickname is midnight.</li>
-				<li>Yo mama is so dark that she bleeds molasses.</li>
-				<li>Yo mama is so dark that she could show up naked to a funeral.</li>
-				<li>Yo mama is so dark that she drinks water and pees coffee.</li>
-				<li>Yo mama is so dark that she got her tattoo done in chalk.</li>
-				<li>Yo mama is so dark that she has to wear white gloves when she eats Tootsie Rolls to keep from eating her fingers.</li>
-				<li>Yo mama is so dark that she looks like a picture of outer-space with no stars... except when she smiles.</li>
-				<li>Yo mama is so dark that she makes asphalt look grey.</li>
-				<li>Yo mama is so dark that she spits chocolate milk!</li>
-				<li>Yo mama is so dark that she was riding a motorcycle and got a ticket for tinted windows.</li>
-				<li>Yo mama is so dark that she went to night school and was marked absent!</li>
-				<li>Yo mama is so dark that that she can leave fingerprints on charcoal.</li>
-				<li>Yo mama is so dark that when her eyes are red she looks like a beeper.</li>
-				<li>Yo mama is so dark that when she goes outside, the streetlights turn on.</li>
-				<li>Yo mama is so dark that when she goes swimming it looks like an oil spill.</li>
-				<li>Yo mama is so dark that when she puts lotion on her legs it looks like she has on patent leather pants.</li>
-				<li>Yo mama is so dark that when she puts on yellow lipstick, she looks like a cheese burger.</li>
-				<li>Yo mama is so dark that when she smiles at night she looks like a pack of floating Chicklets.</li>
-				<li>Yo mama is so dark that when the police shot at her, the bullets came back for flashlights.</li>
 				<li>Yo mama is so dirty that even Swamp Thing told her to take a shower.</li>
 				<li>Yo mama is so dirty that she has to creep up on bathwater.</li>
 				<li>Yo mama is so dirty that she loses weight in the shower.</li>
@@ -282,28 +280,11 @@
 				<li>Yo mama is so dirty, she fertilizes her lawn by rolling in it!</li>
 				<li>Yo mama is so dirty, she jumped in a river and created a mud slide!</li>
 				<li>Yo mama is so dirty, when a seed gets stuck in her ass crack it beings to grow!</li>
-				<li>Yo mama is so dirty, when the wind blows people yell "Sand Storm!!!"</li>
-				<li>Yo mama is so dumb she thought that she could talk to snakes if she put parsley on her tongue</li>
-				<li>Yo mama is so dumb that a stupify spell actually made her smarter.</li>
-				<li>Yo mama is so dumb that she tried to rent a car from The Enterprise.</li>
 				<li>Yo mama is so dumb that she went to the dentist and asked for a bluetooth.</li>
 				<li>Yo mama is so dumb that when she found a vulcan, she tried to call Santa to take him back to the north pole.</li>
-				<li>Yo mama is so dumb that when she was handed the death note, she thought they were asking for her autograph.</li>
-				<li>Yo mama is so dumb, she failed out of Cromartie High School.</li>
-				<li>Yo mama is so dumb, she lost a spelling bee to Hodor</li>
-				<li>Yo mama is so dumb, she thought Bran Stark was a type of muffin.</li>
 				<li>Yo mama is so fat and dumb that the only reason she opened her email was because she heard it contained spam.</li>
 				<li>Yo mama is so fat even Grawp can't pick her up!</li>
 				<li>Yo mama is so fat her headphones are a pair of PA speakers connected to a car amplifier.</li>
-				<li>Yo mama is so fat MTX audio's subwoofers couldn't rattle her bones!</li>
-				<li>Yo mama is so fat she blew up the Deathstar.</li>
-				<li>Yo mama is so fat she makes a Snorlax look like a chihuahua!</li>
-				<li>Yo mama is so fat she makes Riker's belly look 3 atoms thick.</li>
-				<li>Yo mama is so fat she threw on a sheet for Halloween and went as Antarctica.</li>
-				<li>Yo mama is so fat she wears her own inertia dampener.</li>
-				<li>Yo mama is so fat that "ACORN" registered her to vote eight times!</li>
-				<li>Yo mama is so fat that a $700 billion bailout would only keep her fed for a week.</li>
-				<li>Yo mama is so fat that a picture of her would fall off the wall.</li>
 				<li>Yo mama is so fat that a recursive function computing her weight causes a stack overflow.</li>
 				<li>Yo mama is so fat that a wingardium leviosa spell couldn't lift her.</li>
 				<li>Yo mama is so fat that at the zoo, the elephants throw HER peanuts.</li>
@@ -414,7 +395,7 @@
 				<li>Yo mama is so fat that she was floating in the ocean and Spain claimed her for the New World.</li>
 				<li>Yo mama is so fat that she was in the Macygs Thanksgiving Day Parade... wearing ropes.</li>
 				<li>Yo mama is so fat that she was mistaken for Mt. Fuji at the Sakura festival.</li>
-				<li>Yo mama is so fat that she went on a light diet. As soon as itgs light she starts eating.</li>
+				<li>Yo mama is so fat that she went on a light diet. As soon as it's light she starts eating.</li>
 				<li>Yo mama is so fat that she went to the fair and the kids thought she was a bouncy castle.</li>
 				<li>Yo mama is so fat that she went to the movie theatre and sat next to everyone.</li>
 				<li>Yo mama is so fat that she's got Amtrak written on her leg.</li>
