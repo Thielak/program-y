@@ -1,1 +1,1 @@
-*.aiml linguist-language=XML
+bots/archi/aiml/* linguist-language=XML
